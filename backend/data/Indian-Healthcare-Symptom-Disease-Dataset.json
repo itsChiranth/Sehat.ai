@@ -1,0 +1,4138 @@
+[
+ {
+  "Symptom": "Fever",
+  "Possible Diseases": "Malaria, Dengue, Typhoid",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali"
+ },
+ {
+  "Symptom": "Persistent cough",
+  "Possible Diseases": "Tuberculosis, Bronchitis, COVID-19",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Joint pain",
+  "Possible Diseases": "Chikungunya, Arthritis, Dengue",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Skin rash",
+  "Possible Diseases": "Chickenpox, Measles, Allergic dermatitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Headache",
+  "Possible Diseases": "Migraine, Sinusitis, Hypertension",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Abdominal pain",
+  "Possible Diseases": "Gastritis, Appendicitis, Food poisoning",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada, Bengali"
+ },
+ {
+  "Symptom": "Diarrhea",
+  "Possible Diseases": "Gastroenteritis, Cholera, Food poisoning",
+  "Severity": "Moderate",
+  "Average Duration (days)": 4,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Gujarati"
+ },
+ {
+  "Symptom": "Vomiting",
+  "Possible Diseases": "Food poisoning, Viral infection, Gastritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Fatigue",
+  "Possible Diseases": "Anemia, Hypothyroidism, Chronic fatigue syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Difficulty breathing",
+  "Possible Diseases": "Asthma, Pneumonia, COPD",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Sore throat",
+  "Possible Diseases": "Pharyngitis, Tonsillitis, Common cold",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Nasal congestion",
+  "Possible Diseases": "Common cold, Sinusitis, Allergic rhinitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Chest pain",
+  "Possible Diseases": "Angina, Gastroesophageal reflux, Pneumonia",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dizziness",
+  "Possible Diseases": "Vertigo, Anemia, Low blood pressure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Swollen lymph nodes",
+  "Possible Diseases": "Tuberculosis, Lymphoma, Viral infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Tamil, Marathi"
+ },
+ {
+  "Symptom": "Jaundice",
+  "Possible Diseases": "Hepatitis, Liver cirrhosis, Malaria",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Blood in stool",
+  "Possible Diseases": "Hemorrhoids, Colorectal cancer, Dysentery",
+  "Severity": "Severe",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Burning urination",
+  "Possible Diseases": "Urinary tract infection, Kidney stones, Prostatitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Bengali"
+ },
+ {
+  "Symptom": "Back pain",
+  "Possible Diseases": "Muscle strain, Herniated disc, Kidney stones",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Marathi, Bengali"
+ },
+ {
+  "Symptom": "Ear pain",
+  "Possible Diseases": "Ear infection, Swimmer's ear, Sinusitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Blurred vision",
+  "Possible Diseases": "Cataract, Glaucoma, Diabetic retinopathy",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Loss of appetite",
+  "Possible Diseases": "Tuberculosis, Depression, Hepatitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Night sweats",
+  "Possible Diseases": "Tuberculosis, Lymphoma, Menopause",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Gujarati"
+ },
+ {
+  "Symptom": "Nausea",
+  "Possible Diseases": "Motion sickness, Gastritis, Pregnancy",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Muscle weakness",
+  "Possible Diseases": "Vitamin D deficiency, Myasthenia gravis, Thyroid disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Frequent urination",
+  "Possible Diseases": "Diabetes, Urinary tract infection, Prostate enlargement",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Constipation",
+  "Possible Diseases": "Irritable bowel syndrome, Hypothyroidism, Dehydration",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Blood in urine",
+  "Possible Diseases": "Urinary tract infection, Kidney stones, Bladder cancer",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Wheezing",
+  "Possible Diseases": "Asthma, Bronchitis, COPD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Stiff neck",
+  "Possible Diseases": "Meningitis, Cervical spondylosis, Muscle strain",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Ankle swelling",
+  "Possible Diseases": "Heart failure, Kidney disease, Venous insufficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Weight loss",
+  "Possible Diseases": "Tuberculosis, Cancer, Hyperthyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive thirst",
+  "Possible Diseases": "Diabetes, Dehydration, Kidney disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Increased hunger",
+  "Possible Diseases": "Diabetes, Hyperthyroidism, Parasitic infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Gujarati"
+ },
+ {
+  "Symptom": "Dry cough",
+  "Possible Diseases": "Bronchitis, COVID-19, Asthma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Productive cough",
+  "Possible Diseases": "Pneumonia, Bronchitis, Tuberculosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Itchy skin",
+  "Possible Diseases": "Scabies, Eczema, Allergies",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Red eyes",
+  "Possible Diseases": "Conjunctivitis, Allergies, Glaucoma",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Mouth ulcers",
+  "Possible Diseases": "Vitamin deficiency, Viral infection, Stress",
+  "Severity": "Mild",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hair loss",
+  "Possible Diseases": "Alopecia, Thyroid disorders, Nutritional deficiency",
+  "Severity": "Mild",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Palpitations",
+  "Possible Diseases": "Anxiety, Arrhythmia, Anemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Cold hands and feet",
+  "Possible Diseases": "Raynaud's disease, Hypothyroidism, Anemia",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Memory problems",
+  "Possible Diseases": "Dementia, Vitamin B12 deficiency, Depression",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Tremors",
+  "Possible Diseases": "Parkinson's disease, Essential tremor, Hyperthyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive sweating",
+  "Possible Diseases": "Hyperthyroidism, Tuberculosis, Menopause",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Gujarati"
+ },
+ {
+  "Symptom": "Hoarseness",
+  "Possible Diseases": "Laryngitis, Vocal cord nodules, Thyroid cancer",
+  "Severity": "Mild",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dry skin",
+  "Possible Diseases": "Eczema, Psoriasis, Hypothyroidism",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Insomnia",
+  "Possible Diseases": "Anxiety, Depression, Sleep apnea",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive sleepiness",
+  "Possible Diseases": "Sleep apnea, Depression, Hypothyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Numbness in extremities",
+  "Possible Diseases": "Peripheral neuropathy, Vitamin B12 deficiency, Diabetes",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Painful urination",
+  "Possible Diseases": "Urinary tract infection, Kidney stones, Sexually transmitted infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Swollen joints",
+  "Possible Diseases": "Rheumatoid arthritis, Gout, Reactive arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Muscle cramps",
+  "Possible Diseases": "Dehydration, Electrolyte imbalance, Vitamin D deficiency",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Facial pain",
+  "Possible Diseases": "Sinusitis, Trigeminal neuralgia, Dental abscess",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Eye pain",
+  "Possible Diseases": "Glaucoma, Corneal abrasion, Iritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Blood pressure fluctuations",
+  "Possible Diseases": "Hypertension, Pheochromocytoma, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Irregular heartbeat",
+  "Possible Diseases": "Arrhythmia, Anxiety, Electrolyte imbalance",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive bruising",
+  "Possible Diseases": "Platelet disorders, Vitamin K deficiency, Leukemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Toothache",
+  "Possible Diseases": "Dental cavity, Abscess, Gum disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Jaw pain",
+  "Possible Diseases": "Temporomandibular joint disorder, Dental abscess, Trigeminal neuralgia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Halitosis",
+  "Possible Diseases": "Gum disease, Dental infection, Gastroesophageal reflux",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Bloody sputum",
+  "Possible Diseases": "Tuberculosis, Lung cancer, Pneumonia",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Lower back pain",
+  "Possible Diseases": "Sciatica, Kidney infection, Herniated disc",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Knee pain",
+  "Possible Diseases": "Osteoarthritis, Ligament injury, Gout",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Shoulder pain",
+  "Possible Diseases": "Frozen shoulder, Rotator cuff injury, Bursitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Abdominal bloating",
+  "Possible Diseases": "Irritable bowel syndrome, Gastritis, Lactose intolerance",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Anal bleeding",
+  "Possible Diseases": "Hemorrhoids, Anal fissure, Colorectal cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Decreased urine output",
+  "Possible Diseases": "Kidney disease, Dehydration, Urinary obstruction",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Loss of consciousness",
+  "Possible Diseases": "Syncope, Epilepsy, Hypoglycemia",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Confusion",
+  "Possible Diseases": "Delirium, Dementia, Encephalitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Slurred speech",
+  "Possible Diseases": "Stroke, Transient ischemic attack, Multiple sclerosis",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Facial drooping",
+  "Possible Diseases": "Stroke, Bell's palsy, Transient ischemic attack",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Limb weakness",
+  "Possible Diseases": "Stroke, Multiple sclerosis, Guillain-Barré syndrome",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Double vision",
+  "Possible Diseases": "Stroke, Brain tumor, Multiple sclerosis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Seizures",
+  "Possible Diseases": "Epilepsy, Brain tumor, Meningitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Ringing in ears",
+  "Possible Diseases": "Tinnitus, Meniere's disease, Ear infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hearing loss",
+  "Possible Diseases": "Age-related hearing loss, Ear infection, Acoustic neuroma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Balance problems",
+  "Possible Diseases": "Vertigo, Inner ear infection, Multiple sclerosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Frequent falls",
+  "Possible Diseases": "Parkinson's disease, Orthostatic hypotension, Multiple sclerosis",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive urination at night",
+  "Possible Diseases": "Diabetes, Prostate enlargement, Heart failure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Erectile dysfunction",
+  "Possible Diseases": "Diabetes, Hypertension, Depression",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Painful intercourse",
+  "Possible Diseases": "Vaginitis, Endometriosis, Pelvic inflammatory disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Vaginal discharge",
+  "Possible Diseases": "Vaginitis, Sexually transmitted infection, Cervical cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Abnormal vaginal bleeding",
+  "Possible Diseases": "Uterine fibroids, Endometriosis, Cervical cancer",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Breast lump",
+  "Possible Diseases": "Fibrocystic disease, Breast cancer, Mastitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Menstrual pain",
+  "Possible Diseases": "Endometriosis, Adenomyosis, Pelvic inflammatory disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Missed periods",
+  "Possible Diseases": "Pregnancy, Polycystic ovary syndrome, Stress",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Testicular pain",
+  "Possible Diseases": "Epididymitis, Testicular torsion, Orchitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Scrotal swelling",
+  "Possible Diseases": "Hydrocele, Varicocele, Testicular cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Painful ejaculation",
+  "Possible Diseases": "Prostatitis, Seminal vesiculitis, Urethritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Premature ejaculation",
+  "Possible Diseases": "Anxiety, Thyroid disorders, Prostatitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Rectal pain",
+  "Possible Diseases": "Hemorrhoids, Anal fissure, Proctitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Inability to urinate",
+  "Possible Diseases": "Urinary retention, Prostate enlargement, Urethral stricture",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Yellow skin",
+  "Possible Diseases": "Jaundice, Hepatitis, Gallstones",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pale skin",
+  "Possible Diseases": "Anemia, Shock, Vitamin deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Cyanosis",
+  "Possible Diseases": "Heart failure, Pulmonary embolism, COPD",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Swollen face",
+  "Possible Diseases": "Kidney disease, Allergic reaction, Cushing's syndrome",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Puffy eyes",
+  "Possible Diseases": "Allergies, Kidney disease, Hypothyroidism",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Brittle nails",
+  "Possible Diseases": "Iron deficiency, Thyroid disorders, Fungal infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nail discoloration",
+  "Possible Diseases": "Fungal infection, Psoriasis, Melanoma",
+  "Severity": "Mild",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sunken eyes",
+  "Possible Diseases": "Dehydration, Malnutrition, Aging",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dark circles under eyes",
+  "Possible Diseases": "Allergies, Sleep deprivation, Anemia",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Swollen gums",
+  "Possible Diseases": "Gingivitis, Vitamin C deficiency, Leukemia",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bleeding gums",
+  "Possible Diseases": "Gingivitis, Vitamin K deficiency, Leukemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Difficulty swallowing",
+  "Possible Diseases": "Esophageal stricture, Throat cancer, Achalasia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hoarse voice",
+  "Possible Diseases": "Laryngitis, Vocal cord nodules, Thyroid cancer",
+  "Severity": "Mild",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Lump in throat",
+  "Possible Diseases": "Globus sensation, Thyroid nodule, Esophageal cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Neck swelling",
+  "Possible Diseases": "Goiter, Lymphadenopathy, Thyroid cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Hiccups",
+  "Possible Diseases": "Gastroesophageal reflux, Hiatal hernia, Pneumonia",
+  "Severity": "Mild",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive belching",
+  "Possible Diseases": "Gastroesophageal reflux, Gastritis, Functional dyspepsia",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive flatulence",
+  "Possible Diseases": "Irritable bowel syndrome, Lactose intolerance, Malabsorption",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Rectal itching",
+  "Possible Diseases": "Hemorrhoids, Pinworms, Fungal infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Hair thinning",
+  "Possible Diseases": "Iron deficiency, Hypothyroidism, Telogen effluvium",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Facial hair in women",
+  "Possible Diseases": "Polycystic ovary syndrome, Cushing's syndrome, Adrenal disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive sweating",
+  "Possible Diseases": "Hyperthyroidism, Anxiety, Infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Night blindness",
+  "Possible Diseases": "Vitamin A deficiency, Retinitis pigmentosa, Cataracts",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sensitivity to light",
+  "Possible Diseases": "Migraine, Iritis, Corneal abrasion",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dry eyes",
+  "Possible Diseases": "Sjögren's syndrome, Aging, Computer vision syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Watery eyes",
+  "Possible Diseases": "Allergies, Blocked tear duct, Conjunctivitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bulging eyes",
+  "Possible Diseases": "Graves' disease, Orbital cellulitis, Orbital tumor",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Yellow eyes",
+  "Possible Diseases": "Jaundice, Hepatitis, Alcoholic liver disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Eye discharge",
+  "Possible Diseases": "Conjunctivitis, Blepharitis, Dacryocystitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Dry mouth",
+  "Possible Diseases": "Sjögren's syndrome, Dehydration, Medication side effect",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive salivation",
+  "Possible Diseases": "Dental infection, Parkinson's disease, Gastroesophageal reflux",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Tongue pain",
+  "Possible Diseases": "Glossitis, Oral candidiasis, Vitamin deficiency",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "White tongue",
+  "Possible Diseases": "Oral thrush, Leukoplakia, Dehydration",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Red tongue",
+  "Possible Diseases": "Vitamin deficiency, Scarlet fever, Kawasaki disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Black hairy tongue",
+  "Possible Diseases": "Poor oral hygiene, Antibiotics, Tobacco use",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Cracked lips",
+  "Possible Diseases": "Dehydration, Vitamin deficiency, Angular cheilitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Change in taste",
+  "Possible Diseases": "Zinc deficiency, Medication side effect, COVID-19",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Loss of taste",
+  "Possible Diseases": "COVID-19, Zinc deficiency, Bell's palsy",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nose bleeding",
+  "Possible Diseases": "Hypertension, Dry air, Blood disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Runny nose",
+  "Possible Diseases": "Common cold, Allergies, Sinusitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Stuffy nose",
+  "Possible Diseases": "Common cold, Sinusitis, Allergies",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Postnasal drip",
+  "Possible Diseases": "Sinusitis, Allergies, Gastroesophageal reflux",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sneezing",
+  "Possible Diseases": "Allergies, Common cold, Rhinitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Itchy nose",
+  "Possible Diseases": "Allergies, Rhinitis, Sinusitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Nasal polyps",
+  "Possible Diseases": "Chronic sinusitis, Allergies, Cystic fibrosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Change in smell",
+  "Possible Diseases": "COVID-19, Sinusitis, Nasal polyps",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Loss of smell",
+  "Possible Diseases": "COVID-19, Nasal polyps, Zinc deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Frequent infections",
+  "Possible Diseases": "HIV, Diabetes, Immunodeficiency",
+  "Severity": "Severe",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Swollen lymph nodes",
+  "Possible Diseases": "Infection, Tuberculosis, Lymphoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Unexplained weight loss",
+  "Possible Diseases": "Tuberculosis, Cancer, Hyperthyroidism",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Unexplained weight gain",
+  "Possible Diseases": "Hypothyroidism, Cushing's syndrome, Edema",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Increased appetite",
+  "Possible Diseases": "Hyperthyroidism, Diabetes, Pregnancy",
+  "Severity": "Mild",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Decreased appetite",
+  "Possible Diseases": "Depression, Hepatitis, Cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Delayed wound healing",
+  "Possible Diseases": "Diabetes, Peripheral vascular disease, Zinc deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Skin discoloration",
+  "Possible Diseases": "Vitiligo, Melasma, Tinea versicolor",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Easy bruising",
+  "Possible Diseases": "Platelet disorders, Vitamin C deficiency, Liver disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Decreased exercise tolerance",
+  "Possible Diseases": "Heart failure, COPD, Anemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Foot ulcers",
+  "Possible Diseases": "Diabetes, Peripheral vascular disease, Neuropathy",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Gangrene",
+  "Possible Diseases": "Diabetes, Peripheral vascular disease, Buerger's disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Poor night vision",
+  "Possible Diseases": "Vitamin A deficiency, Retinitis pigmentosa, Cataracts",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Frequent fractures",
+  "Possible Diseases": "Osteoporosis, Vitamin D deficiency, Paget's disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Growing pains",
+  "Possible Diseases": "Normal growth, Vitamin D deficiency, Juvenile idiopathic arthritis",
+  "Severity": "Mild",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Bedwetting",
+  "Possible Diseases": "Urinary tract infection, Sleep apnea, Diabetes",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Failure to thrive",
+  "Possible Diseases": "Malnutrition, Congenital heart disease, Celiac disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 90,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Developmental delay",
+  "Possible Diseases": "Down syndrome, Autism spectrum disorder, Hypothyroidism",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Abnormal gait",
+  "Possible Diseases": "Cerebral palsy, Muscular dystrophy, Vitamin B12 deficiency",
+  "Severity": "Severe",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Limping",
+  "Possible Diseases": "Hip dysplasia, Leg length discrepancy, Juvenile arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Toe walking",
+  "Possible Diseases": "Cerebral palsy, Autism spectrum disorder, Tight Achilles tendon",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Bowlegs",
+  "Possible Diseases": "Vitamin D deficiency, Blount's disease, Normal development",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Knock knees",
+  "Possible Diseases": "Normal development, Rickets, Obesity",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Flat feet",
+  "Possible Diseases": "Normal variant, Obesity, Ligament laxity",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "High arched feet",
+  "Possible Diseases": "Charcot-Marie-Tooth disease, Cerebral palsy, Normal variant",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive crying in infants",
+  "Possible Diseases": "Colic, Ear infection, Gastroesophageal reflux",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Recurrent fever in children",
+  "Possible Diseases": "Periodic fever syndromes, Juvenile idiopathic arthritis, Immunodeficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Recurrent abdominal pain in children",
+  "Possible Diseases": "Irritable bowel syndrome, Constipation, Abdominal migraine",
+  "Severity": "Moderate",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Excessive sweating in children",
+  "Possible Diseases": "Hyperthyroidism, Anxiety, Infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Enlarged tonsils",
+  "Possible Diseases": "Chronic tonsillitis, Infectious mononucleosis, Lymphoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Snoring",
+  "Possible Diseases": "Adenoid hypertrophy, Obesity, Sleep apnea",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Mouth breathing",
+  "Possible Diseases": "Adenoid hypertrophy, Deviated nasal septum, Allergic rhinitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Recurrent ear infections",
+  "Possible Diseases": "Adenoid hypertrophy, Eustachian tube dysfunction, Immunodeficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Delayed teething",
+  "Possible Diseases": "Vitamin D deficiency, Hypothyroidism, Down syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Early puberty",
+  "Possible Diseases": "Precocious puberty, Congenital adrenal hyperplasia, Hormone-secreting tumors",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Delayed puberty",
+  "Possible Diseases": "Constitutional delay, Hypogonadism, Chronic disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Short stature",
+  "Possible Diseases": "Growth hormone deficiency, Hypothyroidism, Malnutrition",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Tall stature",
+  "Possible Diseases": "Marfan syndrome, Gigantism, Klinefelter syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Excessive thirst in children",
+  "Possible Diseases": "Diabetes, Diabetes insipidus, Psychogenic polydipsia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Frequent urination in children",
+  "Possible Diseases": "Diabetes, Urinary tract infection, Overactive bladder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pain in the legs",
+  "Possible Diseases": "Growing pains, Vitamin D deficiency, Juvenile idiopathic arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Bow legs in children",
+  "Possible Diseases": "Vitamin D deficiency, Rickets, Blount's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Knock knees in children",
+  "Possible Diseases": "Rickets, Obesity, Normal variant",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Refusal to walk",
+  "Possible Diseases": "Toxic synovitis, Juvenile idiopathic arthritis, Fracture",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Vision problems in children",
+  "Possible Diseases": "Refractive errors, Amblyopia, Strabismus",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Head tilting",
+  "Possible Diseases": "Torticollis, Vision problems, Ear infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Large head",
+  "Possible Diseases": "Hydrocephalus, Familial macrocephaly, Brain tumor",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Small head",
+  "Possible Diseases": "Microcephaly, Malnutrition, Genetic disorders",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Speech delay",
+  "Possible Diseases": "Autism spectrum disorder, Hearing loss, Intellectual disability",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Hyperactivity",
+  "Possible Diseases": "ADHD, Hyperthyroidism, Lead poisoning",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Inattention",
+  "Possible Diseases": "ADHD, Learning disabilities, Sleep disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Learning difficulties",
+  "Possible Diseases": "Learning disabilities, ADHD, Intellectual disability",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Social withdrawal",
+  "Possible Diseases": "Autism spectrum disorder, Depression, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Repetitive behaviors",
+  "Possible Diseases": "Autism spectrum disorder, OCD, Tic disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Temper tantrums",
+  "Possible Diseases": "Normal development, ADHD, Autism spectrum disorder",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sleep problems in children",
+  "Possible Diseases": "Sleep apnea, Anxiety, ADHD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Night terrors",
+  "Possible Diseases": "Normal variant, Stress, Sleep disorders",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sleepwalking",
+  "Possible Diseases": "Normal variant, Sleep disorders, Stress",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bedwetting",
+  "Possible Diseases": "Urinary tract infection, Sleep apnea, Diabetes",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Tics",
+  "Possible Diseases": "Transient tic disorder, Tourette syndrome, OCD",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nail biting",
+  "Possible Diseases": "Anxiety, Normal habit, OCD",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Thumb sucking",
+  "Possible Diseases": "Normal development, Anxiety, Dental problems",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hair pulling",
+  "Possible Diseases": "Trichotillomania, Anxiety, Stress",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Breath holding spells",
+  "Possible Diseases": "Normal variant, Iron deficiency, Emotional dysregulation",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Regression in development",
+  "Possible Diseases": "Autism spectrum disorder, Rett syndrome, Metabolic disorders",
+  "Severity": "Severe",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Facial weakness",
+  "Possible Diseases": "Bell's palsy, Stroke, Myasthenia gravis",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Lockjaw",
+  "Possible Diseases": "Tetanus, Temporomandibular joint disorder, Peritonsillar abscess",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Drooping eyelid",
+  "Possible Diseases": "Myasthenia gravis, Horner's syndrome, Stroke",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Grinding teeth",
+  "Possible Diseases": "Bruxism, Dental malocclusion, Anxiety",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Frequent cavities",
+  "Possible Diseases": "Poor dental hygiene, Diet high in sugar, Genetic factors",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Teeth sensitivity",
+  "Possible Diseases": "Dental erosion, Gum recession, Cracked tooth",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Loose teeth",
+  "Possible Diseases": "Periodontal disease, Trauma, Osteoporosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Black spots on teeth",
+  "Possible Diseases": "Dental caries, Staining, Fluorosis",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Tooth discoloration",
+  "Possible Diseases": "Fluorosis, Tetracycline use, Poor dental hygiene",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bad breath",
+  "Possible Diseases": "Gum disease, Poor oral hygiene, Sinusitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Painful gums",
+  "Possible Diseases": "Gingivitis, Dental abscess, Vitamin C deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Receding gums",
+  "Possible Diseases": "Periodontal disease, Aggressive brushing, Smoking",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Swollen gums",
+  "Possible Diseases": "Gingivitis, Pregnancy, Medication side effect",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Sores on gums",
+  "Possible Diseases": "Canker sores, Herpes, Oral cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "White patches in mouth",
+  "Possible Diseases": "Oral thrush, Leukoplakia, Oral lichen planus",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Red patches in mouth",
+  "Possible Diseases": "Erythroplakia, Vitamin deficiency, Geographic tongue",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Swollen tongue",
+  "Possible Diseases": "Allergic reaction, Vitamin deficiency, Angioedema",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Geographic tongue",
+  "Possible Diseases": "Benign condition, Psoriasis, Vitamin deficiency",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hairy tongue",
+  "Possible Diseases": "Poor oral hygiene, Antibiotics, Tobacco use",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Burning tongue",
+  "Possible Diseases": "Burning mouth syndrome, Vitamin B12 deficiency, Candidiasis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dry mouth",
+  "Possible Diseases": "Sjögren's syndrome, Medication side effect, Dehydration",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive salivation",
+  "Possible Diseases": "Dental infection, Parkinson's disease, GERD",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Difficulty opening mouth",
+  "Possible Diseases": "Tetanus, Temporomandibular joint disorder, Oral cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Clicking jaw",
+  "Possible Diseases": "Temporomandibular joint disorder, Arthritis, Malocclusion",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Jaw pain",
+  "Possible Diseases": "Temporomandibular joint disorder, Dental abscess, Trigeminal neuralgia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Facial swelling",
+  "Possible Diseases": "Dental abscess, Angioedema, Parotitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Facial pain",
+  "Possible Diseases": "Sinusitis, Trigeminal neuralgia, Dental abscess",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Facial redness",
+  "Possible Diseases": "Rosacea, Lupus, Seborrheic dermatitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Facial rash",
+  "Possible Diseases": "Rosacea, Lupus, Contact dermatitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nodules on face",
+  "Possible Diseases": "Acne, Rosacea, Basal cell carcinoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Open sores on face",
+  "Possible Diseases": "Impetigo, Herpes, Skin cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Facial hair in women",
+  "Possible Diseases": "Polycystic ovary syndrome, Cushing's syndrome, Medication side effect",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Hair loss",
+  "Possible Diseases": "Alopecia, Thyroid disorders, Iron deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hair thinning",
+  "Possible Diseases": "Androgenetic alopecia, Hypothyroidism, Iron deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Brittle hair",
+  "Possible Diseases": "Hypothyroidism, Malnutrition, Cushing's syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Dandruff",
+  "Possible Diseases": "Seborrheic dermatitis, Psoriasis, Fungal infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Itchy scalp",
+  "Possible Diseases": "Seborrheic dermatitis, Head lice, Psoriasis",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Scalp sores",
+  "Possible Diseases": "Psoriasis, Seborrheic dermatitis, Folliculitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Scalp tenderness",
+  "Possible Diseases": "Tension headache, Scalp infection, Temporal arteritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Premature graying",
+  "Possible Diseases": "Genetic factors, Vitamin B12 deficiency, Thyroid disorders",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Excessive hair growth",
+  "Possible Diseases": "Polycystic ovary syndrome, Cushing's syndrome, Medication side effect",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Boils",
+  "Possible Diseases": "Staphylococcal infection, Folliculitis, Hidradenitis suppurativa",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Skin tags",
+  "Possible Diseases": "Normal variant, Obesity, Insulin resistance",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Moles",
+  "Possible Diseases": "Normal variant, Atypical nevus, Melanoma",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Freckles",
+  "Possible Diseases": "Sun exposure, Genetic factors, Xeroderma pigmentosum",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "South India",
+  "Language Availability": "English, Tamil, Telugu, Kannada, Malayalam"
+ },
+ {
+  "Symptom": "Age spots",
+  "Possible Diseases": "Sun damage, Aging, Liver disease",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Birthmarks",
+  "Possible Diseases": "Port wine stain, Hemangioma, Nevus",
+  "Severity": "Mild",
+  "Average Duration (days)": 3650,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Vitiligo",
+  "Possible Diseases": "Autoimmune disorder, Genetic factors, Inflammatory conditions",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3650,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Hives",
+  "Possible Diseases": "Allergic reaction, Stress, Infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Blisters",
+  "Possible Diseases": "Burns, Friction, Pemphigus",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Calluses",
+  "Possible Diseases": "Pressure, Friction, Hyperkeratosis",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Corns",
+  "Possible Diseases": "Pressure, Friction, Improper footwear",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Warts",
+  "Possible Diseases": "Human papillomavirus, Immune suppression, Skin trauma",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Telugu"
+ },
+ {
+  "Symptom": "Varicose veins",
+  "Possible Diseases": "Chronic venous insufficiency, Pregnancy, Prolonged standing",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Spider veins",
+  "Possible Diseases": "Chronic venous insufficiency, Liver disease, Hormonal changes",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Cold sores",
+  "Possible Diseases": "Herpes simplex virus, Weakened immune system, Stress",
+  "Severity": "Mild",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Leg cramps at night",
+  "Possible Diseases": "Dehydration, Electrolyte imbalance, Peripheral artery disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Restless legs",
+  "Possible Diseases": "Restless legs syndrome, Iron deficiency, Kidney failure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Flank pain",
+  "Possible Diseases": "Kidney stones, Pyelonephritis, Muscle strain",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Kannada"
+ },
+ {
+  "Symptom": "Pelvic pain",
+  "Possible Diseases": "Endometriosis, Pelvic inflammatory disease, Ovarian cysts",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali"
+ },
+ {
+  "Symptom": "Groin pain",
+  "Possible Diseases": "Hernia, Muscle strain, Kidney stones",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Marathi, Gujarati"
+ },
+ {
+  "Symptom": "Heel pain",
+  "Possible Diseases": "Plantar fasciitis, Achilles tendinitis, Heel spurs",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Malayalam"
+ },
+ {
+  "Symptom": "Wrist pain",
+  "Possible Diseases": "Carpal tunnel syndrome, Tendinitis, Arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Marathi, Bengali"
+ },
+ {
+  "Symptom": "Finger pain",
+  "Possible Diseases": "Arthritis, Trigger finger, Raynaud's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Toe pain",
+  "Possible Diseases": "Gout, Bunion, Ingrown toenail",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Shoulder stiffness",
+  "Possible Diseases": "Frozen shoulder, Arthritis, Rotator cuff injury",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Malayalam"
+ },
+ {
+  "Symptom": "Neck stiffness",
+  "Possible Diseases": "Meningitis, Cervical spondylosis, Muscle strain",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Back stiffness",
+  "Possible Diseases": "Ankylosing spondylitis, Muscle strain, Degenerative disc disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Hip pain",
+  "Possible Diseases": "Arthritis, Bursitis, Sciatica",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Telugu, Marathi"
+ },
+ {
+  "Symptom": "Knee clicking",
+  "Possible Diseases": "Meniscus tear, Arthritis, Ligament injury",
+  "Severity": "Mild",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali"
+ },
+ {
+  "Symptom": "Knee locking",
+  "Possible Diseases": "Meniscus tear, Loose body, Patellar dislocation",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Knee instability",
+  "Possible Diseases": "Ligament tear (ACL\/PCL), Patellar instability, Muscle weakness",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Telugu, Malayalam"
+ },
+ {
+  "Symptom": "Elbow pain",
+  "Possible Diseases": "Tennis elbow, Golfer's elbow, Arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Muscle twitching",
+  "Possible Diseases": "Benign fasciculation syndrome, Electrolyte imbalance, Motor neuron disease",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Muscle spasms",
+  "Possible Diseases": "Dehydration, Muscle fatigue, Electrolyte imbalance",
+  "Severity": "Mild",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Kannada, Malayalam"
+ },
+ {
+  "Symptom": "Muscle soreness after exercise",
+  "Possible Diseases": "Delayed onset muscle soreness (DOMS), Muscle strain, Rhabdomyolysis",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Marathi, Bengali"
+ },
+ {
+  "Symptom": "Tingling sensation",
+  "Possible Diseases": "Peripheral neuropathy, Vitamin deficiency, Carpal tunnel syndrome",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Burning sensation on skin",
+  "Possible Diseases": "Neuropathy, Shingles, Sunburn",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Crawling sensation on skin",
+  "Possible Diseases": "Formication, Peripheral neuropathy, Delusional parasitosis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Loss of coordination",
+  "Possible Diseases": "Ataxia, Stroke, Multiple sclerosis",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Clumsiness",
+  "Possible Diseases": "Dyspraxia, Ataxia, Vitamin B12 deficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Difficulty walking",
+  "Possible Diseases": "Peripheral neuropathy, Parkinson's disease, Arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Shuffling gait",
+  "Possible Diseases": "Parkinson's disease, Normal pressure hydrocephalus, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Difficulty standing up",
+  "Possible Diseases": "Muscle weakness, Orthostatic hypotension, Parkinson's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Difficulty reaching overhead",
+  "Possible Diseases": "Rotator cuff injury, Frozen shoulder, Arthritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Difficulty gripping objects",
+  "Possible Diseases": "Carpal tunnel syndrome, Arthritis, Peripheral neuropathy",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Dropping objects frequently",
+  "Possible Diseases": "Peripheral neuropathy, Carpal tunnel syndrome, Muscle weakness",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Hand tremors when writing",
+  "Possible Diseases": "Essential tremor, Parkinson's disease, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Shaky voice",
+  "Possible Diseases": "Vocal tremor, Parkinson's disease, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Slow speech",
+  "Possible Diseases": "Parkinson's disease, Stroke, Hypothyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Monotone voice",
+  "Possible Diseases": "Parkinson's disease, Depression, Autism spectrum disorder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Difficulty finding words",
+  "Possible Diseases": "Aphasia (stroke-related), Dementia, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Feeling faint",
+  "Possible Diseases": "Vasovagal syncope, Orthostatic hypotension, Anemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Near fainting",
+  "Possible Diseases": "Presyncope, Dehydration, Low blood sugar",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Lightheadedness",
+  "Possible Diseases": "Orthostatic hypotension, Inner ear problems, Dehydration",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Room spinning sensation",
+  "Possible Diseases": "Vertigo, Benign paroxysmal positional vertigo (BPPV), Meniere's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Unsteadiness",
+  "Possible Diseases": "Balance disorder, Peripheral neuropathy, Vision problems",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Feeling detached",
+  "Possible Diseases": "Depersonalization disorder, Anxiety, PTSD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Feeling unreal",
+  "Possible Diseases": "Derealization disorder, Panic attack, Migraine aura",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Memory lapses",
+  "Possible Diseases": "Stress, Aging, Dementia",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Difficulty concentrating",
+  "Possible Diseases": "ADHD, Anxiety, Depression",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Poor judgment",
+  "Possible Diseases": "Dementia, Stroke, Substance abuse",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Confusion about time or place",
+  "Possible Diseases": "Dementia, Delirium, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Getting lost in familiar places",
+  "Possible Diseases": "Alzheimer's disease, Dementia, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Difficulty planning or organizing",
+  "Possible Diseases": "Dementia, ADHD, Depression",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Problems with abstract thinking",
+  "Possible Diseases": "Dementia, Schizophrenia, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Mood swings",
+  "Possible Diseases": "Bipolar disorder, Hormonal changes, Premenstrual syndrome (PMS)",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Irritability",
+  "Possible Diseases": "Anxiety, Depression, PMS",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Agitation",
+  "Possible Diseases": "Anxiety, Dementia, Hyperthyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Restlessness",
+  "Possible Diseases": "Anxiety, Restless legs syndrome, Hyperthyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Feeling hopeless",
+  "Possible Diseases": "Depression, Anxiety, Chronic illness",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Feeling worthless",
+  "Possible Diseases": "Depression, Low self-esteem, Trauma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Loss of interest in activities",
+  "Possible Diseases": "Depression, Anhedonia, Chronic fatigue syndrome",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Social isolation",
+  "Possible Diseases": "Depression, Anxiety, Agoraphobia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Excessive worry",
+  "Possible Diseases": "Generalized anxiety disorder, Panic disorder, OCD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Panic attacks",
+  "Possible Diseases": "Panic disorder, Agoraphobia, Specific phobia",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Phobias",
+  "Possible Diseases": "Specific phobia, Social anxiety disorder, Agoraphobia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Obsessive thoughts",
+  "Possible Diseases": "Obsessive-compulsive disorder (OCD), Anxiety, Depression",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Compulsive behaviors",
+  "Possible Diseases": "Obsessive-compulsive disorder (OCD), Anxiety, Tic disorders",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Flashbacks",
+  "Possible Diseases": "Post-traumatic stress disorder (PTSD), Acute stress disorder, Anxiety",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nightmares",
+  "Possible Diseases": "PTSD, Anxiety, Stress",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Feeling emotionally numb",
+  "Possible Diseases": "PTSD, Depression, Dissociative disorder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Difficulty trusting others",
+  "Possible Diseases": "PTSD, Personality disorder, Past trauma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Hearing voices",
+  "Possible Diseases": "Schizophrenia, Bipolar disorder (mania), Severe depression",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Seeing things that aren't there",
+  "Possible Diseases": "Schizophrenia, Delirium, Drug withdrawal",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Paranoia",
+  "Possible Diseases": "Schizophrenia, Delusional disorder, Severe anxiety",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Delusions",
+  "Possible Diseases": "Schizophrenia, Bipolar disorder, Delusional disorder",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Disorganized thinking",
+  "Possible Diseases": "Schizophrenia, Bipolar disorder (mania), Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Lack of motivation",
+  "Possible Diseases": "Depression, Schizophrenia (negative symptoms), Chronic fatigue syndrome",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Poor hygiene",
+  "Possible Diseases": "Depression, Schizophrenia, Dementia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Impulsive behavior",
+  "Possible Diseases": "ADHD, Bipolar disorder (mania), Substance abuse",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Risky behavior",
+  "Possible Diseases": "Bipolar disorder (mania), Substance abuse, Personality disorder",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Substance craving",
+  "Possible Diseases": "Substance use disorder, Addiction, Withdrawal",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Punjabi"
+ },
+ {
+  "Symptom": "Alcohol withdrawal symptoms",
+  "Possible Diseases": "Delirium tremens, Seizures, Anxiety",
+  "Severity": "Severe",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam, Punjabi"
+ },
+ {
+  "Symptom": "Drug withdrawal symptoms",
+  "Possible Diseases": "Varies by drug (e.g., nausea, insomnia, pain), Addiction",
+  "Severity": "Severe",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada, Punjabi"
+ },
+ {
+  "Symptom": "Increased sensitivity to cold",
+  "Possible Diseases": "Hypothyroidism, Anemia, Raynaud's disease",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Increased sensitivity to heat",
+  "Possible Diseases": "Hyperthyroidism, Multiple sclerosis, Anxiety",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Bengali"
+ },
+ {
+  "Symptom": "Heat intolerance",
+  "Possible Diseases": "Hyperthyroidism, Graves' disease, Menopause",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Cold intolerance",
+  "Possible Diseases": "Hypothyroidism, Raynaud's disease, Anemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Excessive thirst despite drinking",
+  "Possible Diseases": "Diabetes mellitus, Diabetes insipidus, Kidney disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Frequent urination at night (Nocturia)",
+  "Possible Diseases": "Diabetes, Prostate enlargement, Heart failure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Urinary incontinence",
+  "Possible Diseases": "Overactive bladder, Stress incontinence, Urinary tract infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Urgency to urinate",
+  "Possible Diseases": "Overactive bladder, Urinary tract infection, Interstitial cystitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Leaking urine when coughing\/sneezing",
+  "Possible Diseases": "Stress incontinence, Weak pelvic floor muscles, Obesity",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Difficulty starting urination",
+  "Possible Diseases": "Prostate enlargement (BPH), Urethral stricture, Neurogenic bladder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Weak urine stream",
+  "Possible Diseases": "Prostate enlargement (BPH), Urethral stricture, Bladder muscle weakness",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Dribbling after urination",
+  "Possible Diseases": "Prostate enlargement (BPH), Urethral stricture, Overflow incontinence",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Feeling of incomplete bladder emptying",
+  "Possible Diseases": "Prostate enlargement (BPH), Urinary retention, Neurogenic bladder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Cloudy urine",
+  "Possible Diseases": "Urinary tract infection, Kidney stones, Dehydration",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Foul-smelling urine",
+  "Possible Diseases": "Urinary tract infection, Dehydration, Certain foods\/medications",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Pink or cola-colored urine",
+  "Possible Diseases": "Hematuria (blood in urine), Kidney stones, Urinary tract infection",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Pain during intercourse (Dyspareunia)",
+  "Possible Diseases": "Vaginitis, Endometriosis, Pelvic inflammatory disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Vaginal dryness",
+  "Possible Diseases": "Menopause, Sjögren's syndrome, Medication side effect",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Vaginal itching",
+  "Possible Diseases": "Yeast infection, Bacterial vaginosis, Sexually transmitted infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Abnormal vaginal odor",
+  "Possible Diseases": "Bacterial vaginosis, Trichomoniasis, Poor hygiene",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Painful periods (Dysmenorrhea)",
+  "Possible Diseases": "Endometriosis, Uterine fibroids, Adenomyosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Heavy menstrual bleeding",
+  "Possible Diseases": "Uterine fibroids, Adenomyosis, Bleeding disorders",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Irregular periods",
+  "Possible Diseases": "Polycystic ovary syndrome (PCOS), Thyroid disorders, Stress",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Bleeding between periods",
+  "Possible Diseases": "Hormonal imbalance, Uterine polyps, Cervical issues",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Bleeding after menopause",
+  "Possible Diseases": "Endometrial cancer, Vaginal atrophy, Uterine polyps",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Breast pain",
+  "Possible Diseases": "Fibrocystic changes, Mastitis, Menstrual cycle changes",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Nipple discharge",
+  "Possible Diseases": "Prolactinoma, Duct ectasia, Breast cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Inverted nipple (new onset)",
+  "Possible Diseases": "Breast cancer, Duct ectasia, Infection",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Skin changes on breast (dimpling redness)",
+  "Possible Diseases": "Inflammatory breast cancer, Mastitis, Fat necrosis",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Lump in testicle",
+  "Possible Diseases": "Testicular cancer, Epididymal cyst, Hydrocele",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pain in testicle",
+  "Possible Diseases": "Testicular torsion, Epididymitis, Orchitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Swelling in scrotum",
+  "Possible Diseases": "Hydrocele, Varicocele, Testicular cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Difficulty achieving erection",
+  "Possible Diseases": "Erectile dysfunction, Diabetes, Cardiovascular disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Difficulty maintaining erection",
+  "Possible Diseases": "Erectile dysfunction, Anxiety, Vascular problems",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Decreased libido",
+  "Possible Diseases": "Low testosterone, Depression, Medication side effect",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Painful ejaculation",
+  "Possible Diseases": "Prostatitis, Seminal vesiculitis, Sexually transmitted infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Blood in semen",
+  "Possible Diseases": "Prostatitis, Infection, Trauma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Penile discharge",
+  "Possible Diseases": "Urethritis (Gonorrhea, Chlamydia), Balanitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi, Punjabi"
+ },
+ {
+  "Symptom": "Sores on genitals",
+  "Possible Diseases": "Herpes simplex virus, Syphilis, Chancroid",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu, Punjabi"
+ },
+ {
+  "Symptom": "Warts on genitals",
+  "Possible Diseases": "Human papillomavirus (HPV)",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam, Punjabi"
+ },
+ {
+  "Symptom": "Itching in genital area",
+  "Possible Diseases": "Fungal infection (jock itch), Scabies, Pubic lice",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Rectal discharge",
+  "Possible Diseases": "Proctitis, Sexually transmitted infection, Anal fistula",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Feeling of pressure in rectum",
+  "Possible Diseases": "Hemorrhoids, Constipation, Rectal prolapse",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Difficulty controlling bowel movements",
+  "Possible Diseases": "Fecal incontinence, Nerve damage, Diarrhea",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Greasy stools",
+  "Possible Diseases": "Malabsorption, Pancreatitis, Celiac disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Pale stools",
+  "Possible Diseases": "Bile duct obstruction, Liver disease, Pancreatitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bright red blood in stool",
+  "Possible Diseases": "Lower gastrointestinal bleeding (hemorrhoids, diverticulosis, colitis)",
+  "Severity": "Severe",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Mucus in stool",
+  "Possible Diseases": "Irritable bowel syndrome (IBS), Ulcerative colitis, Infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Alternating constipation and diarrhea",
+  "Possible Diseases": "Irritable bowel syndrome (IBS), Inflammatory bowel disease (IBD)",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Feeling of incomplete bowel movement",
+  "Possible Diseases": "Constipation, Irritable bowel syndrome (IBS), Rectal prolapse",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Straining during bowel movements",
+  "Possible Diseases": "Constipation, Hemorrhoids, Anal fissure",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Loss of bowel control",
+  "Possible Diseases": "Fecal incontinence, Diarrhea, Nerve damage",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Increased abdominal girth",
+  "Possible Diseases": "Ascites (fluid accumulation), Obesity, Tumor",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Visible veins on abdomen",
+  "Possible Diseases": "Liver cirrhosis (caput medusae), Portal hypertension",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Abdominal rigidity",
+  "Possible Diseases": "Peritonitis, Appendicitis, Bowel perforation",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Rebound tenderness in abdomen",
+  "Possible Diseases": "Peritonitis, Appendicitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Abdominal guarding",
+  "Possible Diseases": "Appendicitis, Peritonitis, Cholecystitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Loss of appetite for specific foods",
+  "Possible Diseases": "Pregnancy cravings\/aversions, Food intolerance, Psychological factors",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Craving non-food items (Pica)",
+  "Possible Diseases": "Iron deficiency anemia, Malnutrition, Pregnancy",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Metallic taste in mouth",
+  "Possible Diseases": "Medication side effect, Pregnancy, Gum disease",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Sour taste in mouth",
+  "Possible Diseases": "Gastroesophageal reflux disease (GERD), Gastritis",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Bitter taste in mouth",
+  "Possible Diseases": "Acid reflux, Liver or gallbladder problems, Medication side effect",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Food aversion",
+  "Possible Diseases": "Eating disorder, Pregnancy, Chemotherapy side effect",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Feeling full quickly (Early satiety)",
+  "Possible Diseases": "Gastroparesis, Stomach ulcer, Stomach cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pain after eating",
+  "Possible Diseases": "Gastritis, Peptic ulcer, Gallstones",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Bloating after eating",
+  "Possible Diseases": "Irritable bowel syndrome (IBS), Food intolerance, Gastroparesis",
+  "Severity": "Mild",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Indigestion",
+  "Possible Diseases": "Gastroesophageal reflux disease (GERD), Peptic ulcer, Gastritis",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Heartburn",
+  "Possible Diseases": "Gastroesophageal reflux disease (GERD), Hiatal hernia, Pregnancy",
+  "Severity": "Mild",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Regurgitation of food or sour liquid",
+  "Possible Diseases": "Gastroesophageal reflux disease (GERD), Achalasia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Water brash (excess saliva with reflux)",
+  "Possible Diseases": "Gastroesophageal reflux disease (GERD)",
+  "Severity": "Mild",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Difficulty swallowing solids",
+  "Possible Diseases": "Esophageal stricture, Esophageal cancer, Achalasia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Difficulty swallowing liquids",
+  "Possible Diseases": "Achalasia, Stroke, Neurological disorders",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Painful swallowing (Odynophagia)",
+  "Possible Diseases": "Esophagitis, Oral thrush, Throat infection",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Feeling of food stuck in throat",
+  "Possible Diseases": "Esophageal stricture, Globus sensation, GERD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Chest pressure",
+  "Possible Diseases": "Angina, Heart attack, GERD",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Chest tightness",
+  "Possible Diseases": "Asthma, Anxiety attack, Angina",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Sharp chest pain",
+  "Possible Diseases": "Pleurisy, Pericarditis, Muscle strain",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Burning sensation in chest",
+  "Possible Diseases": "Heartburn (GERD), Angina, Esophagitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 2,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Pain radiating to arm\/jaw\/back",
+  "Possible Diseases": "Heart attack, Angina",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Shortness of breath with exertion",
+  "Possible Diseases": "Heart failure, COPD, Anemia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Shortness of breath at rest",
+  "Possible Diseases": "Pulmonary embolism, Pneumonia, Severe heart failure",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Shortness of breath when lying flat (Orthopnea)",
+  "Possible Diseases": "Heart failure, Severe COPD, Obesity",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Waking up breathless (Paroxysmal nocturnal dyspnea)",
+  "Possible Diseases": "Heart failure, Sleep apnea",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Rapid breathing (Tachypnea)",
+  "Possible Diseases": "Pneumonia, Asthma attack, Anxiety",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Shallow breathing",
+  "Possible Diseases": "Pain, Anxiety, Respiratory muscle weakness",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Blue lips or fingernails (Cyanosis)",
+  "Possible Diseases": "Hypoxia (low oxygen), Heart failure, Severe lung disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Clubbing of fingers\/toes",
+  "Possible Diseases": "Chronic lung disease, Congenital heart disease, Lung cancer",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Coughing up blood (Hemoptysis)",
+  "Possible Diseases": "Tuberculosis, Lung cancer, Bronchiectasis",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Coughing up thick phlegm",
+  "Possible Diseases": "Bronchitis, Pneumonia, Cystic fibrosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Coughing up yellow\/green phlegm",
+  "Possible Diseases": "Bacterial infection (bronchitis, pneumonia)",
+  "Severity": "Moderate",
+  "Average Duration (days)": 10,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Barking cough",
+  "Possible Diseases": "Croup, Laryngitis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Whooping cough sound",
+  "Possible Diseases": "Pertussis",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Chronic cough (more than 8 weeks)",
+  "Possible Diseases": "Asthma, COPD, Postnasal drip",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Voice change",
+  "Possible Diseases": "Laryngitis, Vocal cord nodules, Thyroid problems",
+  "Severity": "Mild",
+  "Average Duration (days)": 10,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Loss of voice",
+  "Possible Diseases": "Laryngitis, Vocal cord paralysis, Overuse",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pain when speaking",
+  "Possible Diseases": "Laryngitis, Vocal cord strain",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Ear fullness",
+  "Possible Diseases": "Eustachian tube dysfunction, Earwax impaction, Meniere's disease",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Ear discharge",
+  "Possible Diseases": "Ear infection (otitis media\/externa), Ruptured eardrum",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Ringing in one ear",
+  "Possible Diseases": "Tinnitus, Acoustic neuroma, Meniere's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Pulsating sound in ear",
+  "Possible Diseases": "Pulsatile tinnitus, Vascular abnormality, High blood pressure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Hearing voices when alone",
+  "Possible Diseases": "Auditory hallucinations (Schizophrenia, psychosis)",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Muffled hearing",
+  "Possible Diseases": "Earwax impaction, Otitis media, Eustachian tube dysfunction",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Sudden hearing loss",
+  "Possible Diseases": "Sensorineural hearing loss, Viral infection, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Gradual hearing loss",
+  "Possible Diseases": "Age-related hearing loss, Noise exposure, Otosclerosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Pain behind the ear",
+  "Possible Diseases": "Mastoiditis, Otitis media, Shingles",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Itchy ear canal",
+  "Possible Diseases": "Otitis externa (swimmer's ear), Eczema, Fungal infection",
+  "Severity": "Mild",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Eye redness",
+  "Possible Diseases": "Conjunctivitis (pink eye), Dry eye, Uveitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Eye discharge (pus or watery)",
+  "Possible Diseases": "Conjunctivitis, Blocked tear duct, Corneal ulcer",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Gritty sensation in eye",
+  "Possible Diseases": "Dry eye syndrome, Foreign body, Blepharitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Crusting of eyelids upon waking",
+  "Possible Diseases": "Blepharitis, Conjunctivitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Stye (painful lump on eyelid)",
+  "Possible Diseases": "Infected eyelash follicle",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Chalazion (painless lump on eyelid)",
+  "Possible Diseases": "Blocked oil gland",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Droopy eyelid (Ptosis)",
+  "Possible Diseases": "Myasthenia gravis, Nerve damage, Aging",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Eyelid twitching",
+  "Possible Diseases": "Stress, Fatigue, Caffeine",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Inability to close eye completely",
+  "Possible Diseases": "Bell's palsy, Stroke, Facial nerve injury",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Seeing floaters",
+  "Possible Diseases": "Posterior vitreous detachment, Retinal tear, Uveitis",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Seeing flashes of light",
+  "Possible Diseases": "Retinal tear or detachment, Migraine aura",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Curtain or veil over vision",
+  "Possible Diseases": "Retinal detachment",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Tunnel vision",
+  "Possible Diseases": "Glaucoma, Retinitis pigmentosa, Stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Blind spots in vision",
+  "Possible Diseases": "Macular degeneration, Glaucoma, Optic neuritis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Distorted vision (straight lines appear wavy)",
+  "Possible Diseases": "Macular degeneration, Diabetic retinopathy",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Difficulty seeing at night",
+  "Possible Diseases": "Night blindness (Vitamin A def.), Cataracts, Retinitis pigmentosa",
+  "Severity": "Moderate",
+  "Average Duration (days)": 60,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Halos around lights",
+  "Possible Diseases": "Cataracts, Glaucoma, Corneal edema",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Need for brighter light when reading",
+  "Possible Diseases": "Presbyopia (age-related farsightedness), Cataracts",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Frequent changes in eyeglass prescription",
+  "Possible Diseases": "Diabetes, Cataracts, Keratoconus",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Crossed eyes (Strabismus)",
+  "Possible Diseases": "Muscle imbalance, Nerve problems, Refractive error",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Lazy eye (Amblyopia)",
+  "Possible Diseases": "Strabismus, Unequal refractive error, Cataract in childhood",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Skin sensitivity to touch",
+  "Possible Diseases": "Neuropathy, Fibromyalgia, Sunburn",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Skin thickening",
+  "Possible Diseases": "Scleroderma, Lymphedema, Chronic eczema",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Skin thinning",
+  "Possible Diseases": "Aging, Long-term steroid use, Cushing's syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Stretch marks (Striae)",
+  "Possible Diseases": "Rapid weight gain\/loss, Pregnancy, Cushing's syndrome",
+  "Severity": "Mild",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Purple spots on skin (Purpura)",
+  "Possible Diseases": "Vasculitis, Bleeding disorders, Medication reaction",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Pinpoint red spots on skin (Petechiae)",
+  "Possible Diseases": "Thrombocytopenia, Infection (meningitis, sepsis), Leukemia",
+  "Severity": "Severe",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Yellow bumps on skin (Xanthomas)",
+  "Possible Diseases": "High cholesterol, Diabetes",
+  "Severity": "Mild",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Pearly or waxy bump on skin",
+  "Possible Diseases": "Basal cell carcinoma, Sebaceous hyperplasia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Firm red nodule on skin",
+  "Possible Diseases": "Squamous cell carcinoma, Keratoacanthoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Sore that does not heal",
+  "Possible Diseases": "Skin cancer (basal cell, squamous cell), Chronic infection",
+  "Severity": "Severe",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Loss of pigment in patches (Vitiligo)",
+  "Possible Diseases": "Autoimmune condition",
+  "Severity": "Mild",
+  "Average Duration (days)": 3650,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Darkening of skin creases",
+  "Possible Diseases": "Addison's disease, Acanthosis nigricans (insulin resistance)",
+  "Severity": "Moderate",
+  "Average Duration (days)": 90,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Bronze skin",
+  "Possible Diseases": "Hemochromatosis, Addison's disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Butterfly rash across face",
+  "Possible Diseases": "Systemic lupus erythematosus (SLE)",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Raynaud's phenomenon (fingers change color in cold)",
+  "Possible Diseases": "Raynaud's disease, Scleroderma, Lupus",
+  "Severity": "Mild",
+  "Average Duration (days)": 14,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Joint deformities",
+  "Possible Diseases": "Rheumatoid arthritis, Osteoarthritis",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Reduced range of motion in joints",
+  "Possible Diseases": "Arthritis, Injury, Frozen shoulder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Bone pain",
+  "Possible Diseases": "Osteoporosis (fracture), Bone cancer, Paget's disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Curvature of the spine",
+  "Possible Diseases": "Scoliosis, Kyphosis, Osteoporosis",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Loss of height",
+  "Possible Diseases": "Osteoporosis (vertebral fractures), Degenerative disc disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Feeling cold all the time",
+  "Possible Diseases": "Hypothyroidism, Anemia, Poor circulation",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Feeling hot all the time",
+  "Possible Diseases": "Hyperthyroidism, Menopause, Anxiety",
+  "Severity": "Mild",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Pounding heart",
+  "Possible Diseases": "Palpitations, Anxiety, Arrhythmia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Skipped heartbeats",
+  "Possible Diseases": "Premature atrial\/ventricular contractions (PACs\/PVCs), Anxiety",
+  "Severity": "Mild",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Rapid heartbeat (Tachycardia)",
+  "Possible Diseases": "Anxiety, Arrhythmia (SVT, Afib), Hyperthyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Slow heartbeat (Bradycardia)",
+  "Possible Diseases": "Heart block, Sick sinus syndrome, Medications",
+  "Severity": "Moderate",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Swelling in legs and ankles",
+  "Possible Diseases": "Heart failure, Kidney disease, Venous insufficiency",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Swelling in abdomen (Ascites)",
+  "Possible Diseases": "Liver cirrhosis, Heart failure, Kidney disease",
+  "Severity": "Severe",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Prominent neck veins",
+  "Possible Diseases": "Heart failure, Superior vena cava obstruction",
+  "Severity": "Severe",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Calf pain when walking (Claudication)",
+  "Possible Diseases": "Peripheral artery disease",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Sores on feet or legs that heal slowly",
+  "Possible Diseases": "Peripheral artery disease, Diabetes",
+  "Severity": "Severe",
+  "Average Duration (days)": 60,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "One leg swollen and painful",
+  "Possible Diseases": "Deep vein thrombosis (DVT), Cellulitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Headache worse in the morning",
+  "Possible Diseases": "Brain tumor, Sleep apnea, High blood pressure",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Headache with fever and stiff neck",
+  "Possible Diseases": "Meningitis",
+  "Severity": "Severe",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Headache after head injury",
+  "Possible Diseases": "Concussion, Subdural hematoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Band-like pressure around head",
+  "Possible Diseases": "Tension headache",
+  "Severity": "Mild",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Severe pain around one eye",
+  "Possible Diseases": "Cluster headache",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Tenderness of scalp",
+  "Possible Diseases": "Temporal arteritis, Tension headache",
+  "Severity": "Moderate",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "General malaise (feeling unwell)",
+  "Possible Diseases": "Viral infection, Chronic fatigue syndrome, Anemia",
+  "Severity": "Mild",
+  "Average Duration (days)": 7,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Chills",
+  "Possible Diseases": "Fever, Infection, Hypothermia",
+  "Severity": "Moderate",
+  "Average Duration (days)": 3,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Fever that comes and goes",
+  "Possible Diseases": "Malaria, Tuberculosis, Lymphoma",
+  "Severity": "Moderate",
+  "Average Duration (days)": 14,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "High fever (above 103F or 39.4C)",
+  "Possible Diseases": "Severe infection (sepsis, pneumonia), Heat stroke",
+  "Severity": "Severe",
+  "Average Duration (days)": 5,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Low body temperature (Hypothermia)",
+  "Possible Diseases": "Exposure to cold, Hypothyroidism, Sepsis (in elderly\/infants)",
+  "Severity": "Severe",
+  "Average Duration (days)": 1,
+  "Common in Region": "North India",
+  "Language Availability": "English, Hindi, Punjabi, Urdu"
+ },
+ {
+  "Symptom": "Poor wound healing",
+  "Possible Diseases": "Diabetes, Poor circulation, Malnutrition",
+  "Severity": "Moderate",
+  "Average Duration (days)": 21,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Recurrent infections",
+  "Possible Diseases": "Immunodeficiency, Diabetes, Chronic steroid use",
+  "Severity": "Moderate",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Slow growth in children",
+  "Possible Diseases": "Growth hormone deficiency, Malnutrition, Hypothyroidism",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Rural India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ },
+ {
+  "Symptom": "Delayed milestones in children",
+  "Possible Diseases": "Developmental delay, Autism spectrum disorder, Cerebral palsy",
+  "Severity": "Severe",
+  "Average Duration (days)": 365,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Bengali, Malayalam"
+ },
+ {
+  "Symptom": "Learning disability",
+  "Possible Diseases": "Specific learning disorder (dyslexia, dyscalculia), ADHD",
+  "Severity": "Moderate",
+  "Average Duration (days)": 365,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Tamil, Kannada"
+ },
+ {
+  "Symptom": "Behavioral problems in children",
+  "Possible Diseases": "ADHD, Oppositional defiant disorder, Conduct disorder",
+  "Severity": "Moderate",
+  "Average Duration (days)": 180,
+  "Common in Region": "Urban India",
+  "Language Availability": "English, Hindi, Bengali, Marathi"
+ },
+ {
+  "Symptom": "Bedwetting (Enuresis) beyond age 5",
+  "Possible Diseases": "Delayed bladder control, Urinary tract infection, Sleep apnea",
+  "Severity": "Mild",
+  "Average Duration (days)": 30,
+  "Common in Region": "Pan-India",
+  "Language Availability": "English, Hindi, Tamil, Telugu"
+ }
+]
