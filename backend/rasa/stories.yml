@@ -1,0 +1,53 @@
+version: '3.1'
+
+stories:
+- story: greet_symptom_flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: report_symptoms
+  - action: utter_report_symptoms
+  - intent: query_disease
+  - action: utter_query_disease
+
+- story: fever_flow
+  steps:
+  - intent: Fever
+  - action: utter_Fever
+
+- story: cuts_flow
+  steps:
+  - intent: Cuts
+  - action: utter_Cuts
+
+- story: goodbye_flow
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+# Defaults (short, to avoid warnings)
+- story: mood_great_flow
+  steps:
+  - intent: mood_great
+  - action: utter_happy
+
+- story: mood_unhappy_flow
+  steps:
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+
+- story: bot_challenge_flow
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- story: affirm_flow
+  steps:
+  - intent: affirm
+  - action: utter_happy
+
+- story: deny_flow
+  steps:
+  - intent: deny
+  - action: utter_default

@@ -1,0 +1,60 @@
+version: '3.1'
+
+intents:
+  - greet
+  - report_symptoms
+  - query_disease
+  - goodbye
+  - Fever
+  - Cuts
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - affirm
+  - deny
+
+entities:
+  - symptom
+
+slots:
+  symptoms:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: symptom
+      - type: from_text  # Fills from full message if no entity
+
+responses:
+  utter_greet:
+    - text: "Namaste! I am Sehat.AI for you. Ask me anything about health, symptoms, or prevention in rural areas."
+
+  utter_report_symptoms:
+    - text: "Sorry to hear about your symptoms like fever and chills. Drink plenty of fluids and rest. If persistent, see a doctor. Source: MoHFW Guidelines."
+
+  utter_query_disease:
+    - text: "For symptoms like fever, possible: Dengue or Malaria. Visit health center. Source: NCVDC & Indian-Healthcare Dataset."
+
+  utter_Fever:
+    - text: "To treat mild fever: Drink fluids, lightweight clothes, acetaminophen if needed. Get help if >5 days. Source: Intents Dataset."
+
+  utter_Cuts:
+    - text: "Wash the cut with soap, apply pressure, petroleum jelly, bandage. Source: Intents Dataset."
+
+  utter_goodbye:
+    - text: "Take care and stay healthy! Namaste."
+
+  utter_iamabot:
+    - text: "Yes, I'm Sehat.AI, powered by Rasa for health queries. How can I help with your symptoms today?"
+
+  utter_happy:
+    - text: "Great to hear! Anything else on your mind?"
+
+  utter_cheer_up:
+    - text: "Here's something to cheer you up: Stay hydrated for better health!"
+
+  utter_did_that_help:
+    - text: "Did that help? Tell me more symptoms."
+
+  utter_default:
+    - text: "I'm not sure—tell me more about your symptoms or ask about a disease."

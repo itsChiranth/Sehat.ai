@@ -1,0 +1,75 @@
+version: '3.1'
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - namaste
+    - hello sehatai
+    - hey
+
+- intent: report_symptoms
+  examples: |
+    - i have fever and chills
+    - ive got fever and chills  # Typo/grammar variation
+    - i have fevr n chills  # Typos
+    - i have fever and fatigue
+    - i have fever and cough
+    - i have difficulty breathing
+    - i have severe headache and diarrhea
+    - bukhar aur kampkapi hai  # Hindi
+    - loose motions and vomiting
+    - i feel tired and feverish
+    - i have nausea and abdominal pain
+
+- intent: query_disease
+  examples: |
+    - what is dengue
+    - tell me about malaria
+    - can fever be typhoid
+    - symptoms of joint pain
+    - what causes diarrhea
+    - malaria  # Short query
+    - how to treat headache  # Matches test
+
+- intent: Fever
+  examples: |
+    - how do you treat a mild fever
+    - what to do if i get a mild fever
+    - fever
+    - ive got fever  # Casual
+
+- intent: Cuts
+  examples: |
+    - what to do if cuts
+    - how to cure cuts
+    - i have got a cut
+    - i got a cutt  # Typo
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodnight
+
+# Defaults (minimal)
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+
+- intent: mood_unhappy
+  examples: |
+    - sad
+    - unhappy
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot
+
+- intent: affirm
+  examples: |
+    - yes
+
+- intent: deny
+  examples: |
+    - no
