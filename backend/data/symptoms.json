@@ -1,0 +1,1022 @@
+[
+  {
+    "symptom": "fever",
+    "related_diseases": [
+      "Dengue Fever",
+      "Malaria",
+      "Typhoid Fever",
+      "Tuberculosis (TB)",
+      "COVID-19"
+    ]
+  },
+  {
+    "symptom": "cough",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "COVID-19",
+      "Pneumonia",
+      "Bronchitis",
+      "Asthma"
+    ]
+  },
+  {
+    "symptom": "rash",
+    "related_diseases": [
+      "Dengue Fever",
+      "Chikungunya",
+      "Measles",
+      "Rubella",
+      "Chickenpox"
+    ]
+  },
+  {
+    "symptom": "abdominal pain",
+    "related_diseases": [
+      "Typhoid Fever",
+      "Cholera",
+      "Amoebiasis",
+      "Hepatitis A",
+      "Appendicitis"
+    ]
+  },
+  {
+    "symptom": "headache",
+    "related_diseases": [
+      "Malaria",
+      "Migraine",
+      "COVID-19",
+      "Meningitis",
+      "Tension Headache"
+    ]
+  },
+  {
+    "symptom": "vomiting",
+    "related_diseases": [
+      "Cholera",
+      "Food Poisoning",
+      "Typhoid Fever",
+      "Migraine",
+      "Appendicitis"
+    ]
+  },
+  {
+    "symptom": "jaundice",
+    "related_diseases": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Hepatitis E",
+      "Chronic Liver Disease",
+      "Neonatal Jaundice"
+    ]
+  },
+  {
+    "symptom": "shortness of breath",
+    "related_diseases": [
+      "Asthma",
+      "Pneumonia",
+      "COVID-19",
+      "Heart Failure",
+      "Anemia"
+    ]
+  },
+  {
+    "symptom": "joint pain",
+    "related_diseases": [
+      "Chikungunya",
+      "Dengue Fever",
+      "Rheumatoid Arthritis",
+      "Osteoarthritis",
+      "Gout"
+    ]
+  },
+  {
+    "symptom": "chest pain",
+    "related_diseases": [
+      "Heart Disease",
+      "Asthma",
+      "Tuberculosis (TB)",
+      "COVID-19",
+      "Pneumonia"
+    ]
+  },
+  {
+    "symptom": "loss of appetite",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "HIV/AIDS",
+      "Cervical Cancer",
+      "Typhoid Fever",
+      "Conjunctivitis"
+    ]
+  },
+  {
+    "symptom": "fatigue",
+    "related_diseases": [
+      "Bronchitis",
+      "Heat Stroke",
+      "Iron Deficiency Anemia",
+      "Pneumonia",
+      "Endometriosis"
+    ]
+  },
+  {
+    "symptom": "weight loss",
+    "related_diseases": [
+      "Measles",
+      "Malaria",
+      "Obesity",
+      "Asthma",
+      "Tetanus"
+    ]
+  },
+  {
+    "symptom": "night sweats",
+    "related_diseases": [
+      "Breast Cancer",
+      "Rubella",
+      "Diphtheria",
+      "PCOS",
+      "Chronic Liver Disease"
+    ]
+  },
+  {
+    "symptom": "bloody sputum",
+    "related_diseases": [
+      "Breast Cancer",
+      "Meningitis",
+      "Mumps",
+      "Diphtheria",
+      "Heat Stroke"
+    ]
+  },
+  {
+    "symptom": "skin lesions",
+    "related_diseases": [
+      "Dental Caries",
+      "Typhoid Fever",
+      "Breast Cancer",
+      "Heat Stroke",
+      "Chronic Kidney Disease"
+    ]
+  },
+  {
+    "symptom": "swelling of legs",
+    "related_diseases": [
+      "Snakebite",
+      "Bronchitis",
+      "Pertussis",
+      "Iron Deficiency Anemia",
+      "Endometriosis"
+    ]
+  },
+  {
+    "symptom": "seizures",
+    "related_diseases": [
+      "Pertussis",
+      "Stroke",
+      "HIV/AIDS",
+      "Parkinson's Disease",
+      "Breast Cancer"
+    ]
+  },
+  {
+    "symptom": "confusion",
+    "related_diseases": [
+      "Dental Caries",
+      "Scabies",
+      "Conjunctivitis",
+      "Bronchitis",
+      "Typhoid Fever"
+    ]
+  },
+  {
+    "symptom": "blurred vision",
+    "related_diseases": [
+      "COVID-19",
+      "Typhoid Fever",
+      "UTI",
+      "Polio",
+      "Kidney Stones"
+    ]
+  },
+  {
+    "symptom": "hearing loss",
+    "related_diseases": [
+      "Conjunctivitis",
+      "Snakebite",
+      "Mumps",
+      "Ringworm",
+      "Migraine"
+    ]
+  },
+  {
+    "symptom": "sore throat",
+    "related_diseases": [
+      "PCOS",
+      "Measles",
+      "Malaria",
+      "Tuberculosis (TB)",
+      "Endometriosis"
+    ]
+  },
+  {
+    "symptom": "runny nose",
+    "related_diseases": [
+      "Mumps",
+      "Rotavirus Infection",
+      "Migraine",
+      "Oral Cancer",
+      "Obesity"
+    ]
+  },
+  {
+    "symptom": "conjunctivitis",
+    "related_diseases": [
+      "Alzheimer's Disease",
+      "Breast Cancer",
+      "Malaria",
+      "Prostate Cancer",
+      "UTI"
+    ]
+  },
+  {
+    "symptom": "ear pain",
+    "related_diseases": [
+      "Parkinson's Disease",
+      "Neonatal Jaundice",
+      "Tuberculosis (TB)",
+      "Endometriosis",
+      "Rotavirus Infection"
+    ]
+  },
+  {
+    "symptom": "toothache",
+    "related_diseases": [
+      "COVID-19",
+      "Bronchitis",
+      "Neonatal Jaundice",
+      "Migraine",
+      "Rotavirus Infection"
+    ]
+  },
+  {
+    "symptom": "burning urination",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "Typhoid Fever",
+      "Migraine",
+      "Asthma",
+      "Epilepsy"
+    ]
+  },
+  {
+    "symptom": "blood in urine",
+    "related_diseases": [
+      "Iron Deficiency Anemia",
+      "Influenza",
+      "Chronic Kidney Disease",
+      "Asthma",
+      "Scabies"
+    ]
+  },
+  {
+    "symptom": "swelling abdomen",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "Preeclampsia",
+      "Breast Cancer",
+      "Ringworm",
+      "Scabies"
+    ]
+  },
+  {
+    "symptom": "nausea",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "HIV/AIDS",
+      "Typhoid Fever",
+      "Neonatal Jaundice",
+      "Parkinson's Disease"
+    ]
+  },
+  {
+    "symptom": "diarrhea",
+    "related_diseases": [
+      "Rubella",
+      "Prostate Cancer",
+      "Dental Caries",
+      "Endometriosis",
+      "Malaria"
+    ]
+  },
+  {
+    "symptom": "constipation",
+    "related_diseases": [
+      "Stroke",
+      "Oral Cancer",
+      "Malaria",
+      "Heat Stroke",
+      "Tuberculosis (TB)"
+    ]
+  },
+  {
+    "symptom": "back pain",
+    "related_diseases": [
+      "COVID-19",
+      "Dental Caries",
+      "Measles",
+      "Stroke",
+      "Parkinson's Disease"
+    ]
+  },
+  {
+    "symptom": "numbness in limbs",
+    "related_diseases": [
+      "PCOS",
+      "Dental Caries",
+      "Parkinson's Disease",
+      "Migraine",
+      "Stroke"
+    ]
+  },
+  {
+    "symptom": "weakness",
+    "related_diseases": [
+      "Asthma",
+      "Bronchitis",
+      "Rubella",
+      "Conjunctivitis",
+      "Heat Stroke"
+    ]
+  },
+  {
+    "symptom": "dizziness",
+    "related_diseases": [
+      "Parkinson's Disease",
+      "Iron Deficiency Anemia",
+      "Stroke",
+      "Heat Stroke",
+      "Measles"
+    ]
+  },
+  {
+    "symptom": "loss of balance",
+    "related_diseases": [
+      "Dengue Fever",
+      "Anemia",
+      "Oral Cancer",
+      "Polio",
+      "COVID-19"
+    ]
+  },
+  {
+    "symptom": "memory loss",
+    "related_diseases": [
+      "HIV/AIDS",
+      "Breast Cancer",
+      "Migraine",
+      "Tetanus",
+      "Parkinson's Disease"
+    ]
+  },
+  {
+    "symptom": "irritability",
+    "related_diseases": [
+      "Preeclampsia",
+      "Heart Disease",
+      "Malaria",
+      "PCOS",
+      "Scabies"
+    ]
+  },
+  {
+    "symptom": "anxiety",
+    "related_diseases": [
+      "Heart Disease",
+      "Kidney Stones",
+      "Pertussis",
+      "Conjunctivitis",
+      "Pneumonia"
+    ]
+  },
+  {
+    "symptom": "depression",
+    "related_diseases": [
+      "Cervical Cancer",
+      "Polio",
+      "Anemia",
+      "Iron Deficiency Anemia",
+      "Ringworm"
+    ]
+  },
+  {
+    "symptom": "hallucinations",
+    "related_diseases": [
+      "Iron Deficiency Anemia",
+      "Typhoid Fever",
+      "HIV/AIDS",
+      "Cervical Cancer",
+      "Anemia"
+    ]
+  },
+  {
+    "symptom": "difficulty swallowing",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "Pertussis",
+      "Influenza",
+      "Preeclampsia",
+      "Mumps"
+    ]
+  },
+  {
+    "symptom": "voice changes",
+    "related_diseases": [
+      "HIV/AIDS",
+      "Parkinson's Disease",
+      "Kidney Stones",
+      "Anemia",
+      "Rubella"
+    ]
+  },
+  {
+    "symptom": "nosebleeds",
+    "related_diseases": [
+      "Kidney Stones",
+      "Epilepsy",
+      "Parkinson's Disease",
+      "Preeclampsia",
+      "Measles"
+    ]
+  },
+  {
+    "symptom": "bleeding gums",
+    "related_diseases": [
+      "Meningitis",
+      "Snakebite",
+      "Dental Caries",
+      "PCOS",
+      "Cervical Cancer"
+    ]
+  },
+  {
+    "symptom": "unexplained bruising",
+    "related_diseases": [
+      "Rubella",
+      "Kidney Stones",
+      "Heat Stroke",
+      "Bronchitis",
+      "Parkinson's Disease"
+    ]
+  },
+  {
+    "symptom": "itchy skin",
+    "related_diseases": [
+      "Bronchitis",
+      "Parkinson's Disease",
+      "Epilepsy",
+      "HIV/AIDS",
+      "COVID-19"
+    ]
+  },
+  {
+    "symptom": "scaly skin",
+    "related_diseases": [
+      "Breast Cancer",
+      "Meningitis",
+      "Tetanus",
+      "UTI",
+      "Snakebite"
+    ]
+  },
+  {
+    "symptom": "hair loss",
+    "related_diseases": [
+      "Bronchitis",
+      "Migraine",
+      "Chronic Liver Disease",
+      "Ringworm",
+      "Dengue Fever"
+    ]
+  },
+  {
+    "symptom": "swelling joints",
+    "related_diseases": [
+      "Mumps",
+      "Obesity",
+      "Chronic Liver Disease",
+      "Prostate Cancer",
+      "Oral Cancer"
+    ]
+  },
+  {
+    "symptom": "muscle pain",
+    "related_diseases": [
+      "Preeclampsia",
+      "Asthma",
+      "Tuberculosis (TB)",
+      "Conjunctivitis",
+      "Pertussis"
+    ]
+  },
+  {
+    "symptom": "difficulty walking",
+    "related_diseases": [
+      "Chronic Kidney Disease",
+      "Heart Disease",
+      "Mumps",
+      "Breast Cancer",
+      "Cervical Cancer"
+    ]
+  },
+  {
+    "symptom": "hand tremors",
+    "related_diseases": [
+      "Epilepsy",
+      "Cervical Cancer",
+      "Pertussis",
+      "Polio",
+      "Alzheimer's Disease"
+    ]
+  },
+  {
+    "symptom": "excessive thirst",
+    "related_diseases": [
+      "Rotavirus Infection",
+      "Neonatal Jaundice",
+      "Snakebite",
+      "Breast Cancer",
+      "Pertussis"
+    ]
+  },
+  {
+    "symptom": "frequent urination",
+    "related_diseases": [
+      "Chronic Kidney Disease",
+      "Pneumonia",
+      "Heart Disease",
+      "Dental Caries",
+      "Malaria"
+    ]
+  },
+  {
+    "symptom": "slow wound healing",
+    "related_diseases": [
+      "Oral Cancer",
+      "Malaria",
+      "Breast Cancer",
+      "Neonatal Jaundice",
+      "HIV/AIDS"
+    ]
+  },
+  {
+    "symptom": "cold intolerance",
+    "related_diseases": [
+      "Pneumonia",
+      "Heat Stroke",
+      "Tuberculosis (TB)",
+      "COVID-19",
+      "Mumps"
+    ]
+  },
+  {
+    "symptom": "heat intolerance",
+    "related_diseases": [
+      "Breast Cancer",
+      "Tuberculosis (TB)",
+      "Chronic Liver Disease",
+      "PCOS",
+      "Neonatal Jaundice"
+    ]
+  },
+  {
+    "symptom": "enlarged lymph nodes",
+    "related_diseases": [
+      "COVID-19",
+      "Migraine",
+      "Rubella",
+      "Endometriosis",
+      "Mumps"
+    ]
+  },
+  {
+    "symptom": "mouth ulcers",
+    "related_diseases": [
+      "Conjunctivitis",
+      "Tuberculosis (TB)",
+      "Mumps",
+      "PCOS",
+      "Diphtheria"
+    ]
+  },
+  {
+    "symptom": "chills",
+    "related_diseases": [
+      "Dental Caries",
+      "Chronic Kidney Disease",
+      "Typhoid Fever",
+      "Tetanus",
+      "Rubella"
+    ]
+  },
+  {
+    "symptom": "sweating",
+    "related_diseases": [
+      "Malaria",
+      "Heart Disease",
+      "Mumps",
+      "Meningitis",
+      "Polio"
+    ]
+  },
+  {
+    "symptom": "leg ulcers",
+    "related_diseases": [
+      "Alzheimer's Disease",
+      "Neonatal Jaundice",
+      "Prostate Cancer",
+      "Heart Disease",
+      "Cervical Cancer"
+    ]
+  },
+  {
+    "symptom": "pallor",
+    "related_diseases": [
+      "Tetanus",
+      "Dental Caries",
+      "Chronic Liver Disease",
+      "COVID-19",
+      "Kidney Stones"
+    ]
+  },
+  {
+    "symptom": "dark urine",
+    "related_diseases": [
+      "Pneumonia",
+      "Scabies",
+      "Oral Cancer",
+      "Chronic Liver Disease",
+      "Tetanus"
+    ]
+  },
+  {
+    "symptom": "swollen salivary glands",
+    "related_diseases": [
+      "Epilepsy",
+      "Breast Cancer",
+      "Parkinson's Disease",
+      "Tuberculosis (TB)",
+      "Anemia"
+    ]
+  },
+  {
+    "symptom": "stiff neck",
+    "related_diseases": [
+      "Scabies",
+      "COVID-19",
+      "Heart Disease",
+      "Dengue Fever",
+      "PCOS"
+    ]
+  },
+  {
+    "symptom": "photophobia",
+    "related_diseases": [
+      "Meningitis",
+      "Alzheimer's Disease",
+      "Asthma",
+      "Parkinson's Disease",
+      "Mumps"
+    ]
+  },
+  {
+    "symptom": "difficulty speaking",
+    "related_diseases": [
+      "Chronic Kidney Disease",
+      "UTI",
+      "Parkinson's Disease",
+      "Influenza",
+      "Malaria"
+    ]
+  },
+  {
+    "symptom": "loss of consciousness",
+    "related_diseases": [
+      "Tetanus",
+      "Typhoid Fever",
+      "HIV/AIDS",
+      "Polio",
+      "Diphtheria"
+    ]
+  },
+  {
+    "symptom": "rapid heartbeat",
+    "related_diseases": [
+      "Conjunctivitis",
+      "Cervical Cancer",
+      "UTI",
+      "Neonatal Jaundice",
+      "Iron Deficiency Anemia"
+    ]
+  },
+  {
+    "symptom": "low blood pressure",
+    "related_diseases": [
+      "Epilepsy",
+      "Dengue Fever",
+      "Heat Stroke",
+      "Iron Deficiency Anemia",
+      "HIV/AIDS"
+    ]
+  },
+  {
+    "symptom": "swelling face",
+    "related_diseases": [
+      "Asthma",
+      "Scabies",
+      "Tuberculosis (TB)",
+      "Kidney Stones",
+      "Chronic Liver Disease"
+    ]
+  },
+  {
+    "symptom": "difficulty opening mouth",
+    "related_diseases": [
+      "Endometriosis",
+      "Alzheimer's Disease",
+      "Prostate Cancer",
+      "Malaria",
+      "Dengue Fever"
+    ]
+  },
+  {
+    "symptom": "drooping eyelids",
+    "related_diseases": [
+      "Malaria",
+      "Bronchitis",
+      "COVID-19",
+      "Neonatal Jaundice",
+      "Tetanus"
+    ]
+  },
+  {
+    "symptom": "paralysis",
+    "related_diseases": [
+      "Ringworm",
+      "Migraine",
+      "Pertussis",
+      "Scabies",
+      "Anemia"
+    ]
+  },
+  {
+    "symptom": "poor feeding in infant",
+    "related_diseases": [
+      "Preeclampsia",
+      "Asthma",
+      "Cervical Cancer",
+      "Influenza",
+      "Rotavirus Infection"
+    ]
+  },
+  {
+    "symptom": "yellowing eyes",
+    "related_diseases": [
+      "Tuberculosis (TB)",
+      "HIV/AIDS",
+      "Kidney Stones",
+      "Breast Cancer",
+      "COVID-19"
+    ]
+  },
+  {
+    "symptom": "swelling scrotum",
+    "related_diseases": [
+      "Neonatal Jaundice",
+      "Rubella",
+      "Alzheimer's Disease",
+      "Heat Stroke",
+      "Dental Caries"
+    ]
+  },
+  {
+    "symptom": "painful urination",
+    "related_diseases": [
+      "UTI",
+      "Snakebite",
+      "Breast Cancer",
+      "Chronic Kidney Disease",
+      "COVID-19"
+    ]
+  },
+  {
+    "symptom": "tingling in limbs",
+    "related_diseases": [
+      "Chronic Kidney Disease",
+      "Stroke",
+      "Parkinson's Disease",
+      "Pneumonia",
+      "Diphtheria"
+    ]
+  },
+  {
+    "symptom": "dry skin",
+    "related_diseases": [
+      "HIV/AIDS",
+      "Conjunctivitis",
+      "Mumps",
+      "Obesity",
+      "Scabies"
+    ]
+  },
+  {
+    "symptom": "wheezing",
+    "related_diseases": [
+      "Rotavirus Infection",
+      "Dental Caries",
+      "Tuberculosis (TB)",
+      "Mumps",
+      "Prostate Cancer"
+    ]
+  },
+  {
+    "symptom": "snoring",
+    "related_diseases": [
+      "Rotavirus Infection",
+      "Epilepsy",
+      "UTI",
+      "Dental Caries",
+      "Pertussis"
+    ]
+  },
+  {
+    "symptom": "sleep disturbances",
+    "related_diseases": [
+      "Epilepsy",
+      "Rotavirus Infection",
+      "Polio",
+      "Conjunctivitis",
+      "Breast Cancer"
+    ]
+  },
+  {
+    "symptom": "hoarseness",
+    "related_diseases": [
+      "Migraine",
+      "Snakebite",
+      "Dental Caries",
+      "Rubella",
+      "Bronchitis"
+    ]
+  },
+  {
+    "symptom": "difficulty chewing",
+    "related_diseases": [
+      "Breast Cancer",
+      "Cervical Cancer",
+      "Heat Stroke",
+      "Bronchitis",
+      "Rubella"
+    ]
+  },
+  {
+    "symptom": "jaw stiffness",
+    "related_diseases": [
+      "COVID-19",
+      "Rubella",
+      "Typhoid Fever",
+      "UTI",
+      "Anemia"
+    ]
+  },
+  {
+    "symptom": "breast lump",
+    "related_diseases": [
+      "Influenza",
+      "PCOS",
+      "Rotavirus Infection",
+      "Rubella",
+      "Polio"
+    ]
+  },
+  {
+    "symptom": "nipple discharge",
+    "related_diseases": [
+      "Migraine",
+      "Stroke",
+      "Dengue Fever",
+      "Prostate Cancer",
+      "Diphtheria"
+    ]
+  },
+  {
+    "symptom": "irregular periods",
+    "related_diseases": [
+      "Cervical Cancer",
+      "Diphtheria",
+      "Rubella",
+      "Migraine",
+      "Asthma"
+    ]
+  },
+  {
+    "symptom": "pelvic pain",
+    "related_diseases": [
+      "Endometriosis",
+      "Tetanus",
+      "Dental Caries",
+      "Mumps",
+      "Pneumonia"
+    ]
+  },
+  {
+    "symptom": "infertility",
+    "related_diseases": [
+      "Typhoid Fever",
+      "Preeclampsia",
+      "Chronic Liver Disease",
+      "Snakebite",
+      "Heart Disease"
+    ]
+  },
+  {
+    "symptom": "frequent colds",
+    "related_diseases": [
+      "Anemia",
+      "UTI",
+      "Bronchitis",
+      "Chronic Liver Disease",
+      "Breast Cancer"
+    ]
+  },
+  {
+    "symptom": "poor weight gain",
+    "related_diseases": [
+      "Typhoid Fever",
+      "Rotavirus Infection",
+      "Pneumonia",
+      "Bronchitis",
+      "Heart Disease"
+    ]
+  },
+  {
+    "symptom": "developmental delay",
+    "related_diseases": [
+      "Meningitis",
+      "Kidney Stones",
+      "Alzheimer's Disease",
+      "COVID-19",
+      "Preeclampsia"
+    ]
+  },
+  {
+    "symptom": "delayed walking",
+    "related_diseases": [
+      "Polio",
+      "Diphtheria",
+      "Endometriosis",
+      "Preeclampsia",
+      "Rubella"
+    ]
+  },
+  {
+    "symptom": "speech delay",
+    "related_diseases": [
+      "HIV/AIDS",
+      "Epilepsy",
+      "Typhoid Fever",
+      "Chronic Liver Disease",
+      "Scabies"
+    ]
+  },
+  {
+    "symptom": "hyperactivity",
+    "related_diseases": [
+      "Anemia",
+      "Rubella",
+      "Polio",
+      "Dengue Fever",
+      "Malaria"
+    ]
+  },
+  {
+    "symptom": "poor concentration",
+    "related_diseases": [
+      "Migraine",
+      "Malaria",
+      "Endometriosis",
+      "Diphtheria",
+      "Stroke"
+    ]
+  },
+  {
+    "symptom": "behavioral issues",
+    "related_diseases": [
+      "Snakebite",
+      "Anemia",
+      "Pertussis",
+      "Diphtheria",
+      "Parkinson's Disease"
+    ]
+  }
+]

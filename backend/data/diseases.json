@@ -1,0 +1,3217 @@
+[
+  {
+    "disease": "Dengue Fever",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "sudden high fever",
+      "severe headache",
+      "pain behind the eyes",
+      "muscle and joint pain",
+      "skin rash"
+    ],
+    "red_flags": [
+      "severe abdominal pain",
+      "persistent vomiting",
+      "bleeding gums",
+      "difficulty breathing",
+      "drowsiness"
+    ],
+    "prevention": [
+      "use mosquito nets",
+      "remove stagnant water",
+      "wear full-sleeve clothes",
+      "apply mosquito repellents"
+    ],
+    "vaccination": null,
+    "notes": "Spread by Aedes mosquitoes. Very common in India during monsoon."
+  },
+  {
+    "disease": "Typhoid Fever",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "prolonged fever",
+      "abdominal pain",
+      "loss of appetite",
+      "headache"
+    ],
+    "red_flags": [
+      "intestinal perforation",
+      "severe diarrhea",
+      "confusion"
+    ],
+    "prevention": [
+      "boil water",
+      "wash hands",
+      "avoid street food"
+    ],
+    "vaccination": "Typhoid Conjugate Vaccine (TCV)",
+    "notes": "Common in monsoon; vaccines available in India."
+  },
+  {
+    "disease": "Tuberculosis (TB)",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "cough >2 weeks",
+      "blood in sputum",
+      "weight loss",
+      "night sweats"
+    ],
+    "red_flags": [
+      "severe breathlessness",
+      "massive hemoptysis"
+    ],
+    "prevention": [
+      "BCG vaccination",
+      "early treatment"
+    ],
+    "vaccination": "BCG",
+    "notes": "India has one of the world’s highest TB burdens."
+  },
+  {
+    "disease": "COVID-19",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "cough",
+      "loss of taste/smell",
+      "shortness of breath",
+      "sore throat"
+    ],
+    "red_flags": [
+      "oxygen saturation <90%",
+      "confusion",
+      "severe breathlessness"
+    ],
+    "prevention": [
+      "masking in crowded places",
+      "vaccination",
+      "hand hygiene"
+    ],
+    "vaccination": "Covishield, Covaxin, Corbevax",
+    "notes": "Vaccination and early care reduce severe disease."
+  },
+  {
+    "disease": "Malaria",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever with chills",
+      "sweating",
+      "headache",
+      "nausea",
+      "muscle pain"
+    ],
+    "red_flags": [
+      "seizures",
+      "confusion",
+      "severe anemia",
+      "breathing difficulty"
+    ],
+    "prevention": [
+      "insecticide-treated nets",
+      "indoor spraying",
+      "seek early diagnosis"
+    ],
+    "vaccination": null,
+    "notes": "Common in rural and tribal belts; Plasmodium falciparum cases can be severe."
+  },
+  {
+    "disease": "Cholera",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cholera is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis A",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis A is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis B",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis B is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis C",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis C is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rabies",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Leptospirosis",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Leptospirosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Japanese Encephalitis",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Japanese Encephalitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chikungunya",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chikungunya is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Asthma",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Asthma is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hypertension",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hypertension is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diabetes",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diabetes is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heart Disease",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heart Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Stroke",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Kidney Stones",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Kidney Stones is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Kidney Disease",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Kidney Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Liver Disease",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Liver Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Cervical Cancer",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cervical Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Breast Cancer",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Breast Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Oral Cancer",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Oral Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Prostate Cancer",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Prostate Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Anemia",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Iron Deficiency Anemia",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Iron Deficiency Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Malnutrition",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Malnutrition is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Obesity",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Obesity is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Snakebite",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Snakebite is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heat Stroke",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heat Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Scabies",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Scabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Ringworm",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Ringworm is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Meningitis",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Meningitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Epilepsy",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Epilepsy is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Parkinson's Disease",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Parkinson's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Alzheimer's Disease",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Alzheimer's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Migraine",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Migraine is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pneumonia",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pneumonia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Bronchitis",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Bronchitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Influenza",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Influenza is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Measles",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Measles is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Mumps",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Mumps is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rubella",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rubella is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Polio",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Polio is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rotavirus Infection",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rotavirus Infection is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diphtheria",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diphtheria is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Tetanus",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Tetanus is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pertussis",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pertussis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "HIV/AIDS",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "HIV/AIDS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Neonatal Jaundice",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Neonatal Jaundice is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Preeclampsia",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Preeclampsia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Endometriosis",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Endometriosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "PCOS",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "PCOS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "UTI",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "UTI is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Conjunctivitis",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Conjunctivitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Dental Caries",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Dental Caries is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Cholera Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cholera is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis A Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis A is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis B Case 2",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis B is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis C Case 2",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis C is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rabies Case 2",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Leptospirosis Case 2",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Leptospirosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Japanese Encephalitis Case 2",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Japanese Encephalitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chikungunya Case 2",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chikungunya is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Asthma Case 2",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Asthma is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hypertension Case 2",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hypertension is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diabetes Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diabetes is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heart Disease Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heart Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Stroke Case 2",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Kidney Stones Case 2",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Kidney Stones is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Kidney Disease Case 2",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Kidney Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Liver Disease Case 2",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Liver Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Cervical Cancer Case 2",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cervical Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Breast Cancer Case 2",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Breast Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Oral Cancer Case 2",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Oral Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Prostate Cancer Case 2",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Prostate Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Anemia Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Iron Deficiency Anemia Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Iron Deficiency Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Malnutrition Case 2",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Malnutrition is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Obesity Case 2",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Obesity is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Snakebite Case 2",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Snakebite is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heat Stroke Case 2",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heat Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Scabies Case 2",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Scabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Ringworm Case 2",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Ringworm is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Meningitis Case 2",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Meningitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Epilepsy Case 2",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Epilepsy is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Parkinson's Disease Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Parkinson's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Alzheimer's Disease Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Alzheimer's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Migraine Case 2",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Migraine is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pneumonia Case 2",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pneumonia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Bronchitis Case 2",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Bronchitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Influenza Case 2",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Influenza is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Measles Case 2",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Measles is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Mumps Case 2",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Mumps is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rubella Case 2",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rubella is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Polio Case 2",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Polio is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rotavirus Infection Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rotavirus Infection is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diphtheria Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diphtheria is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Tetanus Case 2",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Tetanus is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pertussis Case 2",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pertussis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "HIV/AIDS Case 2",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "HIV/AIDS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Neonatal Jaundice Case 2",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Neonatal Jaundice is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Preeclampsia Case 2",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Preeclampsia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Endometriosis Case 2",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Endometriosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "PCOS Case 2",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "PCOS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "UTI Case 2",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "UTI is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Conjunctivitis Case 2",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Conjunctivitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Dental Caries Case 2",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Dental Caries is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Cholera Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cholera is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis A Case 3",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis A is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis B Case 3",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis B is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hepatitis C Case 3",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hepatitis C is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rabies Case 3",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Leptospirosis Case 3",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Leptospirosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Japanese Encephalitis Case 3",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Japanese Encephalitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chikungunya Case 3",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chikungunya is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Asthma Case 3",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Asthma is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Hypertension Case 3",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Hypertension is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diabetes Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diabetes is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heart Disease Case 3",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heart Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Stroke Case 3",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Kidney Stones Case 3",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Kidney Stones is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Kidney Disease Case 3",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Kidney Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Chronic Liver Disease Case 3",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Chronic Liver Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Cervical Cancer Case 3",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Cervical Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Breast Cancer Case 3",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Breast Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Oral Cancer Case 3",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Oral Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Prostate Cancer Case 3",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Prostate Cancer is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Anemia Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Iron Deficiency Anemia Case 3",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Iron Deficiency Anemia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Malnutrition Case 3",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Malnutrition is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Obesity Case 3",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Obesity is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Snakebite Case 3",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Snakebite is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Heat Stroke Case 3",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Heat Stroke is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Scabies Case 3",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Scabies is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Ringworm Case 3",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Ringworm is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Meningitis Case 3",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Meningitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Epilepsy Case 3",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Epilepsy is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Parkinson's Disease Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Parkinson's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Alzheimer's Disease Case 3",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Alzheimer's Disease is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Migraine Case 3",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Migraine is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pneumonia Case 3",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pneumonia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Bronchitis Case 3",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Bronchitis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Influenza Case 3",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Influenza is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Measles Case 3",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Measles is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Mumps Case 3",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Mumps is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rubella Case 3",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rubella is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Polio Case 3",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Polio is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Rotavirus Infection Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Rotavirus Infection is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Diphtheria Case 3",
+    "category": "Neurology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Diphtheria is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Tetanus Case 3",
+    "category": "Dermatology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Tetanus is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Pertussis Case 3",
+    "category": "Gynecology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Pertussis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "HIV/AIDS Case 3",
+    "category": "Pediatrics",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "HIV/AIDS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Neonatal Jaundice Case 3",
+    "category": "Emergency",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Neonatal Jaundice is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Preeclampsia Case 3",
+    "category": "Vector-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Preeclampsia is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Endometriosis Case 3",
+    "category": "Water-borne",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Endometriosis is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "PCOS Case 3",
+    "category": "Respiratory",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "PCOS is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "UTI Case 3",
+    "category": "Chronic",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "UTI is common in India. Consult doctor if severe."
+  },
+  {
+    "disease": "Conjunctivitis Case 3",
+    "category": "Oncology",
+    "common_symptoms": [
+      "fever",
+      "fatigue",
+      "pain"
+    ],
+    "red_flags": [
+      "severe symptoms",
+      "hospitalization needed"
+    ],
+    "prevention": [
+      "healthy lifestyle",
+      "vaccination if available",
+      "hygiene"
+    ],
+    "vaccination": null,
+    "notes": "Conjunctivitis is common in India. Consult doctor if severe."
+  }
+]
