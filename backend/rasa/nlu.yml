@@ -7,20 +7,33 @@ nlu:
     - namaste
     - hello sehatai
     - hey
+    - good morning
+    - hello
 
 - intent: report_symptoms
   examples: |
     - i have fever and chills
-    - ive got fever and chills  # Typo/grammar variation
-    - i have fevr n chills  # Typos
+    - ive got fever and chills  
+    - i have fevr n chills  
     - i have fever and fatigue
     - i have fever and cough
     - i have difficulty breathing
     - i have severe headache and diarrhea
-    - bukhar aur kampkapi hai  # Hindi
+    - bukhar aur kampkapi hai  
     - loose motions and vomiting
     - i feel tired and feverish
     - i have nausea and abdominal pain
+    - my legs hurt and i feel weak
+    - severe pain in chest
+
+- intent: symptom_details
+  examples: |
+    - it's been 3 days now
+    - mild symptoms since yesterday
+    - very severe since morning
+    - started last night and getting worse
+    - pain is moderate
+    - symptoms are mild and tolerable
 
 - intent: query_disease
   examples: |
@@ -29,47 +42,72 @@ nlu:
     - can fever be typhoid
     - symptoms of joint pain
     - what causes diarrhea
-    - malaria  # Short query
-    - how to treat headache  # Matches test
+    - malaria
+    - how to treat headache
+    - what are symptoms of typhoid
 
 - intent: Fever
   examples: |
     - how do you treat a mild fever
     - what to do if i get a mild fever
     - fever
-    - ive got fever  # Casual
+    - ive got fever
+    - my temperature is high
 
 - intent: Cuts
   examples: |
     - what to do if cuts
     - how to cure cuts
     - i have got a cut
-    - i got a cutt  # Typo
+    - i got a cutt  
+    - bleeding from cut, what to do
+
+- intent: ask_remedy
+  examples: |
+    - what should i do
+    - how to cure this
+    - remedies for fever
+    - home treatment tips
+    - what medicine to take
+    - how to recover fast
 
 - intent: goodbye
   examples: |
     - bye
     - goodnight
+    - thank you
+    - thanks a lot
+    - see you
 
-# Defaults (minimal)
 - intent: mood_great
   examples: |
     - perfect
     - great
+    - feeling good
+    - happy
 
 - intent: mood_unhappy
   examples: |
     - sad
     - unhappy
+    - not well
+    - feeling bad
 
 - intent: bot_challenge
   examples: |
     - are you a bot
+    - are you real
+    - who are you
 
 - intent: affirm
   examples: |
     - yes
+    - yeah
+    - sure
+    - definitely
 
 - intent: deny
   examples: |
     - no
+    - nope
+    - not really

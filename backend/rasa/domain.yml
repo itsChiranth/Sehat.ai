@@ -12,9 +12,13 @@ intents:
   - bot_challenge
   - affirm
   - deny
+  - symptom_details
+  - ask_remedy
 
 entities:
   - symptom
+  - duration
+  - severity
 
 slots:
   symptoms:
@@ -23,38 +27,67 @@ slots:
     mappings:
       - type: from_entity
         entity: symptom
-      - type: from_text  # Fills from full message if no entity
+      - type: from_text
+  duration:
+    type: text
+    influence_conversation: true
+  severity:
+    type: text
+    influence_conversation: true
 
 responses:
   utter_greet:
     - text: "Namaste! I am Sehat.AI for you. Ask me anything about health, symptoms, or prevention in rural areas."
+    - text: "Hello! Tell me about the symptoms you are experiencing, and I will try to assist you."
 
   utter_report_symptoms:
-    - text: "Sorry to hear about your symptoms like fever and chills. Drink plenty of fluids and rest. If persistent, see a doctor. Source: MoHFW Guidelines."
+    - text: "Sorry to hear about your symptoms like fever and chills. Drink plenty of fluids and rest. If symptoms persist, please see a doctor. Source: MoHFW Guidelines."
+    - text: "I understand your symptoms like fever and chills. Make sure to stay hydrated and rest well. If it continues, consult your healthcare provider."
+
+  utter_ask_symptom_details:
+    - text: "Can you please tell me how long you've had these symptoms and how severe they are?"
+    - text: "Please share the duration and severity of your symptoms so I can assist better."
 
   utter_query_disease:
-    - text: "For symptoms like fever, possible: Dengue or Malaria. Visit health center. Source: NCVDC & Indian-Healthcare Dataset."
+    - text: "For symptoms like fever, possible causes include Dengue or Malaria. Visiting a health center is recommended. Source: NCVDC & Indian-Healthcare Dataset."
+    - text: "Conditions like Dengue or Malaria may cause fever. Please consider getting checked at a health facility."
 
   utter_Fever:
-    - text: "To treat mild fever: Drink fluids, lightweight clothes, acetaminophen if needed. Get help if >5 days. Source: Intents Dataset."
+    - text: "To treat mild fever: Drink fluids, wear lightweight clothes, and take acetaminophen if needed. Get help if fever lasts more than 5 days. Source: Intents Dataset."
+    - text: "Mild fever care includes rest, fluids, and medication like paracetamol. If it lasts long, seek medical advice."
 
   utter_Cuts:
-    - text: "Wash the cut with soap, apply pressure, petroleum jelly, bandage. Source: Intents Dataset."
+    - text: "Wash the cut with soap, apply pressure to stop bleeding, use petroleum jelly, and bandage it properly. Source: Intents Dataset."
+    - text: "For cuts, clean with soap, put pressure, apply ointment, and cover with a bandage."
+
+  utter_ask_if_more_symptoms:
+    - text: "Do you have any other symptoms you'd like to report?"
+    - text: "Please tell me if you have more symptoms."
+
+  utter_remedy:
+    - text: "For mild symptoms, rest and hydration are key. If symptoms worsen, don't hesitate to consult a doctor."
+    - text: "Home treatment includes drinking fluids and rest. If unsure, always seek professional health advice."
 
   utter_goodbye:
     - text: "Take care and stay healthy! Namaste."
+    - text: "Goodbye! Wishing you good health."
 
   utter_iamabot:
-    - text: "Yes, I'm Sehat.AI, powered by Rasa for health queries. How can I help with your symptoms today?"
+    - text: "Yes, I'm Sehat.AI, powered by Rasa for health queries. How can I assist you today?"
 
   utter_happy:
     - text: "Great to hear! Anything else on your mind?"
+    - text: "Glad you're feeling good! How else can I assist?"
 
   utter_cheer_up:
     - text: "Here's something to cheer you up: Stay hydrated for better health!"
+    - text: "Remember to take care of yourself. Drinking water helps!"
 
   utter_did_that_help:
     - text: "Did that help? Tell me more symptoms."
+    - text: "Let me know if that advice helped or if you have other concerns."
 
   utter_default:
     - text: "I'm not sure—tell me more about your symptoms or ask about a disease."
+    - text: "Sorry, I didn't understand that well. Can you rephrase or mention your symptoms?"
+

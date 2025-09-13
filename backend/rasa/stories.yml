@@ -1,31 +1,55 @@
 version: '3.1'
 
 stories:
-- story: greet_symptom_flow
+
+- story: greet_and_report_symptoms
   steps:
   - intent: greet
   - action: utter_greet
   - intent: report_symptoms
   - action: utter_report_symptoms
-  - intent: query_disease
+  - action: utter_ask_symptom_details
+
+- story: provide_symptom_details
+  steps:
+  - intent: symptom_details
   - action: utter_query_disease
+  - action: utter_ask_if_more_symptoms
+
+- story: ask_for_remedy
+  steps:
+  - intent: ask_remedy
+  - action: utter_remedy
+  - action: utter_ask_if_more_symptoms
+
+- story: handle_more_symptoms_yes
+  steps:
+  - intent: affirm
+  - action: utter_report_symptoms
+  - action: utter_ask_symptom_details
+
+- story: handle_more_symptoms_no
+  steps:
+  - intent: deny
+  - action: utter_goodbye
 
 - story: fever_flow
   steps:
   - intent: Fever
   - action: utter_Fever
+  - action: utter_ask_if_more_symptoms
 
 - story: cuts_flow
   steps:
   - intent: Cuts
   - action: utter_Cuts
+  - action: utter_ask_if_more_symptoms
 
 - story: goodbye_flow
   steps:
   - intent: goodbye
   - action: utter_goodbye
 
-# Defaults (short, to avoid warnings)
 - story: mood_great_flow
   steps:
   - intent: mood_great
