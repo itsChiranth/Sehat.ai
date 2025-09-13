@@ -1,0 +1,189 @@
+{
+  "generated_at": "2025-09-13T00:00:00Z",
+  "note": "This file contains India's National Immunization Schedule (NIS) vaccines and additional optional vaccines commonly recommended in private practice (e.g., Varicella, Influenza, Hepatitis A, COVID-19). Nearby centers remain MOCK examples for Odisha, Tamil Nadu, Andhra Pradesh, Karnataka, Kerala.",
+  "vaccinations": {
+    "NIS_vaccines": [
+      {
+        "vaccine": "BCG",
+        "age": "At birth or as early as possible till 1 year",
+        "diseases_prevented": [
+          "Tuberculosis"
+        ]
+      },
+      {
+        "vaccine": "Hepatitis B (Birth dose)",
+        "age": "Within 24 hours of birth",
+        "diseases_prevented": [
+          "Hepatitis B"
+        ]
+      },
+      {
+        "vaccine": "OPV-0 (Oral Polio Vaccine)",
+        "age": "At birth (zero dose)",
+        "diseases_prevented": [
+          "Poliomyelitis"
+        ]
+      },
+      {
+        "vaccine": "OPV-1, 2, 3",
+        "age": "6, 10, 14 weeks",
+        "diseases_prevented": [
+          "Poliomyelitis"
+        ]
+      },
+      {
+        "vaccine": "Pentavalent-1,2,3 (DPT-HepB-Hib)",
+        "age": "6, 10, 14 weeks",
+        "diseases_prevented": [
+          "Diphtheria",
+          "Pertussis",
+          "Tetanus",
+          "Hepatitis B",
+          "Hib"
+        ]
+      },
+      {
+        "vaccine": "Rotavirus Vaccine (RVV-1,2,3)",
+        "age": "6, 10, 14 weeks",
+        "diseases_prevented": [
+          "Rotavirus diarrhoea"
+        ]
+      },
+      {
+        "vaccine": "PCV (Pneumococcal Conjugate Vaccine)",
+        "age": "6, 14 weeks + booster at 9-12 months",
+        "diseases_prevented": [
+          "Pneumococcal pneumonia",
+          "Meningitis"
+        ]
+      },
+      {
+        "vaccine": "fIPV (Fractional Inactivated Polio Vaccine)",
+        "age": "6 and 14 weeks",
+        "diseases_prevented": [
+          "Poliomyelitis"
+        ]
+      },
+      {
+        "vaccine": "MR-1 (Measles-Rubella)",
+        "age": "9-12 months",
+        "diseases_prevented": [
+          "Measles",
+          "Rubella"
+        ]
+      },
+      {
+        "vaccine": "JE (Japanese Encephalitis, endemic areas)",
+        "age": "9-12 months & 16-24 months",
+        "diseases_prevented": [
+          "Japanese Encephalitis"
+        ]
+      },
+      {
+        "vaccine": "MR-2 + DPT/OPV Booster",
+        "age": "16-24 months",
+        "diseases_prevented": [
+          "Measles",
+          "Rubella",
+          "Diphtheria",
+          "Pertussis",
+          "Tetanus",
+          "Polio"
+        ]
+      },
+      {
+        "vaccine": "DPT Booster-2",
+        "age": "5-6 years",
+        "diseases_prevented": [
+          "Diphtheria",
+          "Pertussis",
+          "Tetanus"
+        ]
+      },
+      {
+        "vaccine": "Td (Tetanus + Diphtheria)",
+        "age": "10 years, adolescence",
+        "diseases_prevented": [
+          "Tetanus",
+          "Diphtheria"
+        ]
+      },
+      {
+        "vaccine": "TT/Td in pregnancy",
+        "age": "During pregnancy",
+        "diseases_prevented": [
+          "Tetanus",
+          "Diphtheria"
+        ]
+      }
+    ],
+    "optional_private_vaccines": [
+      {
+        "vaccine": "Varicella (Chickenpox)",
+        "age": "12-18 months + booster at 4-6 years",
+        "diseases_prevented": [
+          "Varicella"
+        ]
+      },
+      {
+        "vaccine": "Influenza (Flu shot)",
+        "age": "Annually for children >6 months, elderly, high-risk groups",
+        "diseases_prevented": [
+          "Seasonal Influenza"
+        ]
+      },
+      {
+        "vaccine": "Hepatitis A",
+        "age": "12 months + booster 6-12 months later",
+        "diseases_prevented": [
+          "Hepatitis A"
+        ]
+      },
+      {
+        "vaccine": "HPV (Human Papillomavirus)",
+        "age": "9-14 years (2 doses), >15 years (3 doses)",
+        "diseases_prevented": [
+          "Cervical cancer",
+          "HPV-related diseases"
+        ]
+      },
+      {
+        "vaccine": "Meningococcal",
+        "age": "As per risk (outbreaks, students abroad)",
+        "diseases_prevented": [
+          "Meningococcal meningitis"
+        ]
+      },
+      {
+        "vaccine": "Typhoid Conjugate Vaccine (TCV)",
+        "age": "9-12 months single dose",
+        "diseases_prevented": [
+          "Typhoid Fever"
+        ]
+      },
+      {
+        "vaccine": "MMR (Measles, Mumps, Rubella)",
+        "age": "12-15 months + booster",
+        "diseases_prevented": [
+          "Measles",
+          "Mumps",
+          "Rubella"
+        ]
+      },
+      {
+        "vaccine": "COVID-19 (Covaxin, Covishield, Corbevax, ZyCoV-D etc.)",
+        "age": "As per MoHFW guidelines",
+        "diseases_prevented": [
+          "COVID-19"
+        ]
+      },
+      {
+        "vaccine": "Rabies (PEP & Pre-exposure)",
+        "age": "After animal bite or pre-exposure for high-risk groups",
+        "diseases_prevented": [
+          "Rabies"
+        ]
+      }
+    ]
+  }
+}
